@@ -1,0 +1,26 @@
+{
+  "export_timestamp": "2026-04-08T20:45:27.495699",
+  "collection": "news_data_preprocessing",
+  "database": "vietnamese_news",
+  "total_documents": 13159,
+  "total_batches": null,
+  "batch_size": 5000,
+  "fields": [
+    "_id",
+    "site",
+    "category",
+    "author",
+    "publish_date",
+    "article_id",
+    "url",
+    "full_text",
+    "metadata_text"
+  ],
+  "schema_version": "4.1 (after lowercasing)",
+  "transformations_applied": [
+    "1. Cleaning (remove missing values, invalid data, outliers, language noise)",
+    "2. Integration (merge fields, clean text, remove unnecessary fields, remove labels, normalize newlines)",
+    "3. Schema normalization (datetime ISO 8601, category consolidation 11→7)",
+    "4. Lowercasing (full_text + metadata_text)"
+  ]
+}

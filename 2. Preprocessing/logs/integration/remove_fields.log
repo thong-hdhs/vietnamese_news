@@ -1,0 +1,147 @@
+2026-04-08 18:15:27,218 - INFO - 
+Kết nối MongoDB...
+2026-04-08 18:15:41,842 - INFO - [OK] Đã kết nối MongoDB
+
+2026-04-08 18:15:41,843 - INFO - ================================================================================
+2026-04-08 18:15:41,844 - INFO - PHASE 3.3: XÓA CÁC FIELDS KHÔNG CẦN THIẾT
+2026-04-08 18:15:41,845 - INFO - ================================================================================
+2026-04-08 18:15:41,908 - INFO - 
+[INFO] Tổng documents: 13159
+2026-04-08 18:15:41,909 - INFO - 
+[INFO] Fields sẽ xóa (11):
+2026-04-08 18:15:41,909 - INFO -    - article_content
+2026-04-08 18:15:41,909 - INFO -    - title
+2026-04-08 18:15:41,910 - INFO -    - subheadings
+2026-04-08 18:15:41,911 - INFO -    - description
+2026-04-08 18:15:41,911 - INFO -    - tags
+2026-04-08 18:15:41,912 - INFO -    - meta_keywords
+2026-04-08 18:15:41,912 - INFO -    - meta_description
+2026-04-08 18:15:41,913 - INFO -    - featured_image_alt
+2026-04-08 18:15:41,913 - INFO -    - category_url
+2026-04-08 18:15:41,914 - INFO -    - featured_image
+2026-04-08 18:15:41,914 - INFO -    - video_url
+2026-04-08 18:15:41,915 - INFO - 
+[INFO] Fields sẽ giữ lại (9):
+2026-04-08 18:15:41,915 - INFO -    - _id
+2026-04-08 18:15:41,916 - INFO -    - site
+2026-04-08 18:15:41,916 - INFO -    - category
+2026-04-08 18:15:41,917 - INFO -    - author
+2026-04-08 18:15:41,917 - INFO -    - publish_date
+2026-04-08 18:15:41,918 - INFO -    - article_id
+2026-04-08 18:15:41,918 - INFO -    - url
+2026-04-08 18:15:41,918 - INFO -    - full_text
+2026-04-08 18:15:41,919 - INFO -    - metadata_text
+2026-04-08 18:15:41,919 - INFO - 
+Dang xóa fields...
+2026-04-08 18:15:44,146 - INFO - [OK] Đã xóa fields từ 13159 documents
+
+2026-04-08 18:15:44,147 - INFO - ================================================================================
+2026-04-08 18:15:44,147 - INFO - VERIFY SCHEMA
+2026-04-08 18:15:44,148 - INFO - ================================================================================
+2026-04-08 18:15:44,207 - INFO - 
+Sample document fields:
+2026-04-08 18:15:44,208 - INFO -    ✓ _id (ObjectId)
+2026-04-08 18:15:44,208 - INFO -    ✓ article_id (str): '5059560'
+2026-04-08 18:15:44,220 - INFO -    ✓ author (str): 'Phạm Chiểu'
+2026-04-08 18:15:44,220 - INFO -    ✓ category (str): 'Thời sự'
+2026-04-08 18:15:44,221 - INFO -    ✓ estimated_read_time_minutes (int)
+2026-04-08 18:15:44,221 - INFO -    ✓ full_text (str): 2897 chars
+2026-04-08 18:15:44,221 - INFO -    ✓ images (list)
+2026-04-08 18:15:44,221 - INFO -    ✓ metadata_text (str): 382 chars
+2026-04-08 18:15:44,222 - INFO -    ✓ og_tags (dict)
+2026-04-08 18:15:44,222 - INFO -    ✓ paragraph_count (int)
+2026-04-08 18:15:44,223 - INFO -    ✓ publish_date (str): 'Thứ ba, 7/4/2026, 15:32 (GMT+7)'
+2026-04-08 18:15:44,223 - INFO -    ✓ site (str): 'vnexpress'
+2026-04-08 18:15:44,223 - INFO -    ✓ url (str): 'https://vnexpress.net/cong-doan-lay-y-kien-lao-dong-ve-hoan-doi-nghi-le-5059560.html'
+2026-04-08 18:15:44,223 - INFO -    ✓ word_count (int)
+2026-04-08 18:15:44,224 - INFO - 
+Checking if removed fields are gone...
+2026-04-08 18:15:44,352 - INFO -    ✓ Field 'article_content' successfully removed
+2026-04-08 18:15:49,433 - INFO -    ✓ Field 'title' successfully removed
+2026-04-08 18:15:49,501 - INFO -    ✓ Field 'subheadings' successfully removed
+2026-04-08 18:15:49,574 - INFO -    ✓ Field 'description' successfully removed
+2026-04-08 18:15:49,646 - INFO -    ✓ Field 'tags' successfully removed
+2026-04-08 18:15:49,724 - INFO -    ✓ Field 'meta_keywords' successfully removed
+2026-04-08 18:15:49,795 - INFO -    ✓ Field 'meta_description' successfully removed
+2026-04-08 18:15:49,912 - INFO -    ✓ Field 'featured_image_alt' successfully removed
+2026-04-08 18:15:49,976 - INFO -    ✓ Field 'category_url' successfully removed
+2026-04-08 18:15:50,055 - INFO -    ✓ Field 'featured_image' successfully removed
+2026-04-08 18:15:50,127 - INFO -    ✓ Field 'video_url' successfully removed
+2026-04-08 18:15:50,127 - INFO - 
+Checking if required fields exist...
+2026-04-08 18:15:50,270 - INFO -    ✓ Field '_id' found in all 13159 documents
+2026-04-08 18:15:50,389 - INFO -    ✓ Field 'site' found in all 13159 documents
+2026-04-08 18:15:50,509 - INFO -    ✓ Field 'category' found in all 13159 documents
+2026-04-08 18:15:50,629 - INFO -    ✓ Field 'author' found in all 13159 documents
+2026-04-08 18:15:50,768 - INFO -    ✓ Field 'publish_date' found in all 13159 documents
+2026-04-08 18:15:50,900 - INFO -    ✓ Field 'article_id' found in all 13159 documents
+2026-04-08 18:15:51,018 - INFO -    ✓ Field 'url' found in all 13159 documents
+2026-04-08 18:15:51,148 - INFO -    ✓ Field 'full_text' found in all 13159 documents
+2026-04-08 18:15:51,278 - INFO -    ✓ Field 'metadata_text' found in all 13159 documents
+2026-04-08 18:15:51,278 - INFO - 
+================================================================================
+2026-04-08 18:15:51,278 - INFO - SAMPLE DOCUMENTS (After Field Removal)
+2026-04-08 18:15:51,278 - INFO - ================================================================================
+2026-04-08 18:15:51,390 - INFO - 
+Sample 1:
+2026-04-08 18:15:51,390 - INFO -    _id: 69d4c2090dd7256644d7e14c
+2026-04-08 18:15:51,391 - INFO -    site: vnexpress
+2026-04-08 18:15:51,391 - INFO -    category: Thời sự
+2026-04-08 18:15:51,391 - INFO -    author: Phạm Chiểu
+2026-04-08 18:15:51,391 - INFO -    article_id: 5059560
+2026-04-08 18:15:51,391 - INFO -    url: https://vnexpress.net/cong-doan-lay-y-kien-lao-dong-ve-hoan-doi-nghi-le-5059560.html
+2026-04-08 18:15:51,391 - INFO -    full_text (len=2897): TITLE: Công đoàn lấy ý kiến lao động về hoán đổi nghỉ lễ
+
+CONTENT:
+Ngày 7/4, ông Ngọ Duy Hiểu, Phó chủ tịch Tổng liên đoàn Lao động Việt Nam, cho biết...
+2026-04-08 18:15:51,391 - INFO -    metadata_text (len=382): Tổng liên đoàn Lao động Việt Nam tổ chức lấy ý kiến người lao động về các phương án hoán đổi nghỉ lễ tháng 4 do nhiều cấp cơ sở đề nghị. - VnExpress
+T...
+2026-04-08 18:15:51,391 - INFO - 
+Sample 2:
+2026-04-08 18:15:51,391 - INFO -    _id: 69d4c2090dd7256644d7e14f
+2026-04-08 18:15:51,392 - INFO -    site: vnexpress
+2026-04-08 18:15:51,392 - INFO -    category: Thời sự
+2026-04-08 18:15:51,392 - INFO -    author: Dưới cờ đỏ sao vàng thiêng liêng của Tổ quốc, trước Quốc hội, đồng bào và cử tri cả nước, tôi Chánh án Tòa án nhân dân Tối cao nước Cộng hòa xã hội chủ nghĩa Việt Nam, xin tuyên thệ tuyệt đối trung thành với Tổ quốc, với nhân dân với Hiến pháp, nỗ lực phấn đấu hoàn thành tốt nhiệm vụ được Đảng, Nhà nước và nhân dân giao phó
+2026-04-08 18:15:51,392 - INFO -    article_id: 5058686
+2026-04-08 18:15:51,392 - INFO -    url: https://vnexpress.net/ong-nguyen-van-quang-lam-chanh-an-tand-toi-cao-5058686.html
+2026-04-08 18:15:51,392 - INFO -    full_text (len=2193): TITLE: Ông Nguyễn Văn Quảng làm Chánh án TAND Tối cao
+
+CONTENT:
+Trước Quốc hội, Chánh án Tòa án nhân dân Tối cao Nguyễn Văn Quảng tuyên thệ: Dưới cờ đ...
+2026-04-08 18:15:51,392 - INFO -    metadata_text (len=370): Ông Nguyễn Văn Quảng, 57 tuổi, được Quốc hội bầu làm Chánh án Tòa án nhân dân Tối cao nhiệm kỳ 2026-2031, tại phiên làm việc chiều 7/4. - VnExpress
+TA...
+2026-04-08 18:15:51,392 - INFO - 
+Sample 3:
+2026-04-08 18:15:51,392 - INFO -    _id: 69d4c2090dd7256644d7e150
+2026-04-08 18:15:51,392 - INFO -    site: vnexpress
+2026-04-08 18:15:51,393 - INFO -    category: Thời sự
+2026-04-08 18:15:51,393 - INFO -    author: Đình Văn
+2026-04-08 18:15:51,393 - INFO -    article_id: 5059526
+2026-04-08 18:15:51,393 - INFO -    url: https://vnexpress.net/ba-oto-tong-lien-hoan-o-cau-sai-gon-ket-xe-keo-dai-5059526.html
+2026-04-08 18:15:51,393 - INFO -    full_text (len=963): TITLE: Ba ôtô tông liên hoàn ở cầu Sài Gòn, kẹt xe kéo dài
+
+CONTENT:
+Gần 12h, ba xe 7 chỗ chạy trên cầu Sài Gòn, hướng từ vòng xoay Hàng Xanh về đường...
+2026-04-08 18:15:51,393 - INFO -    metadata_text (len=442): TP HCM- Ba xe 7 chỗ đang chạy trên cầu Sài Gòn thì bất ngờ xảy ra va chạm, tuyến giao thông nối trung tâm thành phố về khu vực Thủ Đức cũ ùn ứ kéo dài...
+2026-04-08 18:15:51,393 - INFO - 
+================================================================================
+2026-04-08 18:15:51,393 - INFO - [REMOVAL REPORT]
+2026-04-08 18:15:51,393 - INFO - ================================================================================
+2026-04-08 18:15:51,393 - INFO - 
+[STATISTICS]
+2026-04-08 18:15:51,394 - INFO -    Total documents: 13159
+2026-04-08 18:15:51,394 - INFO -    Documents modified: 13159
+2026-04-08 18:15:51,394 - INFO -    Errors: 0
+2026-04-08 18:15:51,394 - INFO - 
+[SCHEMA UPDATE]
+2026-04-08 18:15:51,394 - INFO -    Fields removed: 11
+2026-04-08 18:15:51,394 - INFO -    Fields remaining: 9
+2026-04-08 18:15:51,394 - INFO -    Schema reduction: 50.0%
+2026-04-08 18:15:51,394 - INFO - 
+================================================================================
+2026-04-08 18:15:51,394 - INFO - [OK] Database connection closed
+2026-04-08 18:15:51,394 - INFO - ================================================================================
+2026-04-08 18:15:51,394 - INFO - 
+[OK] FIELD REMOVAL COMPLETED - Schema optimized!
+2026-04-08 18:15:51,394 - INFO - ================================================================================
+2026-04-08 18:15:51,395 - INFO - Timestamp: 2026-04-08T18:15:51.394994

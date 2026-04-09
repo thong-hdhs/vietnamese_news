@@ -1,0 +1,41 @@
+2026-04-08 20:29:50,668 - INFO - ================================================================================
+2026-04-08 20:29:50,668 - INFO - PRODUCTION: LOWERCASING
+2026-04-08 20:29:50,668 - INFO - ================================================================================
+2026-04-08 20:30:05,267 - INFO - ✓ Connected to MongoDB
+2026-04-08 20:30:05,341 - INFO - 
+Total documents: 13159
+2026-04-08 20:30:05,342 - INFO - Starting lowercasing on full_text + metadata_text...
+2026-04-08 20:31:11,235 - INFO -   Progress: 1000/13159 (7.6%) - Updated: 1000 - Elapsed: 65.9s
+2026-04-08 20:32:13,555 - INFO -   Progress: 2000/13159 (15.2%) - Updated: 2000 - Elapsed: 128.2s
+2026-04-08 20:33:24,000 - INFO -   Progress: 3000/13159 (22.8%) - Updated: 3000 - Elapsed: 198.7s
+2026-04-08 20:34:37,102 - INFO -   Progress: 4000/13159 (30.4%) - Updated: 4000 - Elapsed: 271.8s
+2026-04-08 20:35:38,923 - INFO -   Progress: 5000/13159 (38.0%) - Updated: 5000 - Elapsed: 333.6s
+2026-04-08 20:36:40,160 - INFO -   Progress: 6000/13159 (45.6%) - Updated: 6000 - Elapsed: 394.8s
+2026-04-08 20:37:47,003 - INFO -   Progress: 7000/13159 (53.2%) - Updated: 7000 - Elapsed: 461.7s
+2026-04-08 20:38:49,220 - INFO -   Progress: 8000/13159 (60.8%) - Updated: 8000 - Elapsed: 523.9s
+2026-04-08 20:39:51,633 - INFO -   Progress: 9000/13159 (68.4%) - Updated: 9000 - Elapsed: 586.3s
+2026-04-08 20:40:57,041 - INFO -   Progress: 10000/13159 (76.0%) - Updated: 10000 - Elapsed: 651.7s
+2026-04-08 20:41:59,083 - INFO -   Progress: 11000/13159 (83.6%) - Updated: 11000 - Elapsed: 713.7s
+2026-04-08 20:43:01,368 - INFO -   Progress: 12000/13159 (91.2%) - Updated: 12000 - Elapsed: 776.0s
+2026-04-08 20:44:07,206 - INFO -   Progress: 13000/13159 (98.8%) - Updated: 13000 - Elapsed: 841.9s
+2026-04-08 20:44:18,163 - INFO - 
+[LOWERCASING COMPLETE]
+2026-04-08 20:44:18,164 - INFO - Total processed: 13159
+2026-04-08 20:44:18,164 - INFO - Total updated: 13159
+2026-04-08 20:44:18,175 - INFO - Duration: 852.82 seconds (14.21 minutes)
+2026-04-08 20:44:18,175 - INFO - 
+[VERIFICATION]
+2026-04-08 20:44:18,273 - INFO - Sample 1: ✅ All lowercase
+2026-04-08 20:44:18,273 - INFO - Sample 2: ✅ All lowercase
+2026-04-08 20:44:18,274 - INFO - Sample 3: ✅ All lowercase
+2026-04-08 20:44:18,274 - INFO - ✅ All sampled documents are fully lowercase
+2026-04-08 20:44:18,274 - INFO - 
+================================================================================
+2026-04-08 20:44:18,274 - INFO - [PRODUCTION SUMMARY]
+2026-04-08 20:44:18,275 - INFO - ================================================================================
+2026-04-08 20:44:18,275 - INFO - 
+Total documents processed: 13159
+2026-04-08 20:44:18,275 - INFO - Documents with changes: 13159
+2026-04-08 20:44:18,275 - INFO - Execution time: 852.82 seconds (14.21 minutes)
+2026-04-08 20:44:18,275 - INFO - Timestamp: 2026-04-08T20:44:18.275857
+2026-04-08 20:44:18,276 - INFO - ================================================================================

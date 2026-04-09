@@ -1,0 +1,73 @@
+2026-04-08 17:16:35,108 - INFO - ================================================================================
+2026-04-08 17:16:35,108 - INFO - NORMALIZE LANGUAGE NOISE
+2026-04-08 17:16:35,108 - INFO - ================================================================================
+2026-04-08 17:16:35,108 - INFO - Database: vietnamese_news
+2026-04-08 17:16:35,108 - INFO - Collection: news_data_preprocessing
+2026-04-08 17:16:35,108 - INFO - Mode: NORMALIZE & CLEAN (no deletions)
+
+2026-04-08 17:16:35,108 - INFO - Timestamp: 2026-04-08T17:16:35.108752
+
+2026-04-08 17:16:35,108 - INFO - Connecting to MongoDB...
+2026-04-08 17:16:36,708 - INFO - [OK] Connected to MongoDB
+2026-04-08 17:16:36,708 - INFO - 
+Normalizing & cleaning documents...
+2026-04-08 17:16:36,709 - INFO - 
+================================================================================
+2026-04-08 17:16:36,709 - INFO - STEP 4: NORMALIZE LANGUAGE NOISE
+2026-04-08 17:16:36,709 - INFO - ================================================================================
+2026-04-08 17:16:36,709 - INFO - Operations: Unicode normalization, HTML entity decode, whitespace clean
+
+2026-04-08 17:16:36,777 - INFO - [INFO] Total documents: 13159
+2026-04-08 17:16:36,777 - INFO - 
+Fetching documents...
+2026-04-08 17:16:51,372 - INFO - [OK] Fetched 13159 documents
+
+2026-04-08 17:16:51,372 - INFO - [INFO] Detected text fields: ['article_content', 'article_id', 'author', 'category', 'category_url', 'description', 'featured_image', 'featured_image_alt', 'meta_description', 'meta_keywords', 'site', 'subheadings', 'title', 'url', 'video_url']
+
+2026-04-08 17:16:51,372 - INFO - Normalizing documents...
+2026-04-08 17:16:52,918 - INFO -    Processed 2000/13159 documents...
+2026-04-08 17:16:54,532 - INFO -    Processed 4000/13159 documents...
+2026-04-08 17:16:55,956 - INFO -    Processed 6000/13159 documents...
+2026-04-08 17:16:58,338 - INFO -    Processed 8000/13159 documents...
+2026-04-08 17:17:01,417 - INFO -    Processed 10000/13159 documents...
+2026-04-08 17:17:04,499 - INFO -    Processed 12000/13159 documents...
+2026-04-08 17:17:06,111 - INFO - [OK] Processing complete!
+
+2026-04-08 17:17:06,111 - INFO - Updating 4691 documents with normalizations...
+2026-04-08 17:21:50,761 - INFO - [OK] Updated 4691 documents!
+2026-04-08 17:21:50,824 - INFO - 
+================================================================================
+2026-04-08 17:21:50,824 - INFO - [NORMALIZATION REPORT]
+2026-04-08 17:21:50,825 - INFO - ================================================================================
+2026-04-08 17:21:50,825 - INFO - 
+[STATISTICS]
+2026-04-08 17:21:50,825 - INFO -    Total documents: 13159
+2026-04-08 17:21:50,825 - INFO -    Documents modified: 4691 (35.65%)
+2026-04-08 17:21:50,825 - INFO - 
+[FIELDS CLEANED]
+2026-04-08 17:21:50,825 - INFO -    title cleaned: 45 occurrences
+2026-04-08 17:21:50,825 - INFO -    article_content cleaned: 1023 occurrences
+2026-04-08 17:21:50,825 - INFO -    author cleaned: 3 occurrences
+2026-04-08 17:21:50,825 - INFO -    Total field cleanups: 7633
+2026-04-08 17:21:50,825 - INFO - 
+[SAMPLE CHANGES (first 5)]
+2026-04-08 17:21:50,825 - INFO -    1. Field: meta_keywords | ID: 69d4c2090dd7256644d7e150
+2026-04-08 17:21:50,830 - INFO -    2. Field: meta_keywords | ID: 69d4c2090dd7256644d7e151
+2026-04-08 17:21:50,834 - INFO -    3. Field: meta_keywords | ID: 69d4c2090dd7256644d7e154
+2026-04-08 17:21:50,835 - INFO -    4. Field: description | ID: 69d4c2090dd7256644d7e155
+2026-04-08 17:21:50,840 - INFO -    5. Field: meta_description | ID: 69d4c2090dd7256644d7e155
+2026-04-08 17:21:50,841 - INFO - 
+================================================================================
+2026-04-08 17:21:50,916 - INFO - [OK] Database connection closed
+2026-04-08 17:21:50,916 - INFO - 
+================================================================================
+2026-04-08 17:21:50,916 - INFO - [OK] SCRIPT COMPLETED SUCCESSFULLY!
+2026-04-08 17:21:50,917 - INFO - ================================================================================
+2026-04-08 17:21:50,917 - INFO - Timestamp: 2026-04-08T17:21:50.917249
+2026-04-08 17:21:50,917 - INFO - 
+Results:
+2026-04-08 17:21:50,917 - INFO -    Documents modified: 4691
+2026-04-08 17:21:50,917 - INFO -    Fields cleaned: 7633
+2026-04-08 17:21:50,917 - INFO -    Total documents: 13159 (no deletions)
+2026-04-08 17:21:50,917 - INFO - 
+Ready for next phase: Integration & Transformation

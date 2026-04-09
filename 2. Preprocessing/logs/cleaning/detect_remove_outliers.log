@@ -1,0 +1,75 @@
+2026-04-08 17:09:46,657 - INFO - ================================================================================
+2026-04-08 17:09:46,657 - INFO - DETECT & REMOVE OUTLIERS
+2026-04-08 17:09:46,657 - INFO - ================================================================================
+2026-04-08 17:09:46,657 - INFO - Database: vietnamese_news
+2026-04-08 17:09:46,657 - INFO - Collection: news_data_preprocessing
+2026-04-08 17:09:46,657 - INFO - Mode: DETECT & DELETE outliers + duplicates
+
+2026-04-08 17:09:46,657 - INFO - Timestamp: 2026-04-08T17:09:46.657605
+
+2026-04-08 17:10:01,165 - INFO - 
+================================================================================
+2026-04-08 17:10:01,165 - INFO - STEP 3: DETECT OUTLIERS & DUPLICATES
+2026-04-08 17:10:01,165 - INFO - ================================================================================
+2026-04-08 17:10:01,165 - INFO - Parameters: MIN_WORDS=20, MAX_WORDS=5000
+
+2026-04-08 17:10:01,234 - INFO - 
+Fetching all 16375 documents...
+2026-04-08 17:10:20,585 - INFO - Analyzing word count...
+2026-04-08 17:10:20,670 - INFO -    Analyzed 2000/16375 documents...
+2026-04-08 17:10:20,755 - INFO -    Analyzed 4000/16375 documents...
+2026-04-08 17:10:20,834 - INFO -    Analyzed 6000/16375 documents...
+2026-04-08 17:10:20,915 - INFO -    Analyzed 8000/16375 documents...
+2026-04-08 17:10:21,001 - INFO -    Analyzed 10000/16375 documents...
+2026-04-08 17:10:21,084 - INFO -    Analyzed 12000/16375 documents...
+2026-04-08 17:10:21,165 - INFO -    Analyzed 14000/16375 documents...
+2026-04-08 17:10:21,247 - INFO -    Analyzed 16000/16375 documents...
+2026-04-08 17:10:21,260 - INFO - 
+Detecting duplicates...
+2026-04-08 17:10:21,463 - INFO - 
+================================================================================
+2026-04-08 17:10:21,464 - INFO - ================================================================================
+2026-04-08 17:10:21,465 - INFO -    < 20 words (TOO SHORT):         27 articles (  0.16%)
+2026-04-08 17:10:21,465 - INFO -    20-5000 words (VALID):     16340 articles ( 99.79%)
+2026-04-08 17:10:21,465 - INFO -    > 5000 words (TOO LONG):           8 articles (  0.05%)
+2026-04-08 17:10:21,465 - INFO -    Total duplicates to remove: 3181 articles
+2026-04-08 17:10:21,466 - INFO -    Word count outliers: 35 articles
+2026-04-08 17:10:21,466 - INFO -    Duplicates: 3181 articles
+2026-04-08 17:10:21,466 - INFO -    Total to remove: 3216 articles (19.64%)
+2026-04-08 17:10:21,467 - INFO -    1. ID:69d4c22b0dd7256644d7e303 | Reason: word_count_too_short (16 words)
+2026-04-08 17:10:21,467 - INFO -    2. ID:69d4c24b0dd7256644d7e4a9 | Reason: word_count_too_short (19 words)
+2026-04-08 17:10:21,467 - INFO -    3. ID:69d4c2530dd7256644d7e526 | Reason: word_count_too_short (18 words)
+2026-04-08 17:10:21,467 - INFO -    4. ID:69d4c2540dd7256644d7e533 | Reason: word_count_too_short (14 words)
+2026-04-08 17:10:21,467 - INFO -    5. ID:69d4c2550dd7256644d7e53f | Reason: word_count_too_short (14 words)
+2026-04-08 17:10:21,467 - INFO -    6. ID:69d4c25a0dd7256644d7e57d | Reason: word_count_too_short (15 words)
+2026-04-08 17:10:21,467 - INFO -    7. ID:69d4c25b0dd7256644d7e584 | Reason: word_count_too_short (15 words)
+2026-04-08 17:10:21,467 - INFO -    8. ID:69d4c2710dd7256644d7e67b | Reason: word_count_too_short (14 words)
+2026-04-08 17:10:21,467 - INFO -    9. ID:69d4c2760dd7256644d7e6af | Reason: word_count_too_short (14 words)
+2026-04-08 17:10:21,467 - INFO -    10. ID:69d4c2780dd7256644d7e6bd | Reason: word_count_too_short (13 words)
+2026-04-08 17:10:21,467 - INFO -    1. ID:69d4c20f0dd7256644d7e199 | Keep: 69d4c20f0dd7256644d7e197
+2026-04-08 17:10:21,468 - INFO -    2. ID:69d4c2120dd7256644d7e1b5 | Keep: 69d4c2110dd7256644d7e1b1
+2026-04-08 17:10:21,468 - INFO -    3. ID:69d4c2130dd7256644d7e1c4 | Keep: 69d4c2110dd7256644d7e1b2
+2026-04-08 17:10:21,468 - INFO -    4. ID:69d4c21c0dd7256644d7e239 | Keep: 69d4c21a0dd7256644d7e226
+2026-04-08 17:10:21,468 - INFO -    5. ID:69d4c21c0dd7256644d7e23a | Keep: 69d4c21a0dd7256644d7e227
+2026-04-08 17:10:21,468 - INFO -    6. ID:69d4c2220dd7256644d7e288 | Keep: 69d4c2210dd7256644d7e27c
+2026-04-08 17:10:21,468 - INFO -    7. ID:69d4c2310dd7256644d7e347 | Keep: 69d4c2310dd7256644d7e346
+2026-04-08 17:10:21,468 - INFO -    8. ID:69d4c2350dd7256644d7e37f | Keep: 69d4c2350dd7256644d7e37e
+2026-04-08 17:10:21,468 - INFO -    9. ID:69d4c2370dd7256644d7e39f | Keep: 69d4c2140dd7256644d7e1d7
+2026-04-08 17:10:21,468 - INFO -    10. ID:69d4c23f0dd7256644d7e403 | Keep: 69d4c24c0dd7256644d7e4be
+2026-04-08 17:10:21,468 - INFO -    Before:  16375 articles
+2026-04-08 17:10:21,468 - INFO -    After:   13159 articles
+2026-04-08 17:10:21,468 - INFO -    Removed:   3216 articles
+2026-04-08 17:10:21,468 - INFO - 
+================================================================================
+2026-04-08 17:10:21,480 - INFO - 
+Deleting 3216 documents from database...
+2026-04-08 17:10:22,011 - INFO - 
+================================================================================
+2026-04-08 17:10:22,012 - INFO - ================================================================================
+2026-04-08 17:10:22,012 - INFO - Timestamp: 2026-04-08T17:10:22.012883
+2026-04-08 17:10:22,012 - INFO - 
+Results:
+2026-04-08 17:10:22,013 - INFO -    Removed: 3216 articles (19.64%)
+2026-04-08 17:10:22,013 - INFO -    Remaining: 13159 articles
+2026-04-08 17:10:22,013 - INFO - 
+Ready for next step: Normalize language noise

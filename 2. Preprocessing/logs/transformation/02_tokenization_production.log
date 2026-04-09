@@ -1,0 +1,55 @@
+2026-04-08 20:59:16,011 - INFO - ================================================================================
+2026-04-08 20:59:16,011 - INFO - PRODUCTION: TOKENIZATION (Word Tokenization)
+2026-04-08 20:59:16,011 - INFO - ================================================================================
+2026-04-08 20:59:17,497 - INFO - ✓ Connected to MongoDB
+2026-04-08 20:59:17,566 - INFO - 
+Total documents: 13159
+2026-04-08 20:59:17,566 - INFO - Starting tokenization on full_text + metadata_text...
+2026-04-08 20:59:17,567 - INFO - Creating new fields: full_text_tokens, metadata_text_tokens...
+2026-04-08 21:02:12,934 - INFO -   Progress: 2000/13159 (15.2%) - Errors: 0 - Elapsed: 175.4s
+2026-04-08 21:05:17,788 - INFO -   Progress: 4000/13159 (30.4%) - Errors: 0 - Elapsed: 360.2s
+2026-04-08 21:08:12,704 - INFO -   Progress: 6000/13159 (45.6%) - Errors: 0 - Elapsed: 535.1s
+2026-04-08 21:11:07,509 - INFO -   Progress: 8000/13159 (60.8%) - Errors: 0 - Elapsed: 709.9s
+2026-04-08 21:14:03,276 - INFO -   Progress: 10000/13159 (76.0%) - Errors: 0 - Elapsed: 885.7s
+2026-04-08 21:16:57,729 - INFO -   Progress: 12000/13159 (91.2%) - Errors: 0 - Elapsed: 1060.2s
+2026-04-08 21:18:30,379 - INFO - 
+[TOKENIZATION COMPLETE]
+2026-04-08 21:18:30,380 - INFO - Total processed: 13159
+2026-04-08 21:18:30,380 - INFO - Total updated: 13159
+2026-04-08 21:18:30,381 - INFO - Total errors: 0
+2026-04-08 21:18:30,381 - INFO - Duration: 1152.81 seconds (19.21 minutes)
+2026-04-08 21:18:30,381 - INFO - 
+[VERIFICATION]
+2026-04-08 21:18:30,440 - INFO - Sample 1:
+2026-04-08 21:18:30,440 - INFO -   full_text_tokens: 622 tokens
+2026-04-08 21:18:30,441 - INFO -     Preview (first 5): công_đoàn lấy ý_kiến lao_động về
+2026-04-08 21:18:30,441 - INFO -   metadata_text_tokens: 69 tokens
+2026-04-08 21:18:30,441 - INFO -     Preview (first 5): tổng_liên_đoàn lao_động việt_nam tổ_chức lấy
+2026-04-08 21:18:30,441 - INFO - Sample 2:
+2026-04-08 21:18:30,441 - INFO -   full_text_tokens: 371 tokens
+2026-04-08 21:18:30,442 - INFO -     Preview (first 5): ông nguyễn văn quảng làm
+2026-04-08 21:18:30,442 - INFO -   metadata_text_tokens: 75 tokens
+2026-04-08 21:18:30,443 - INFO -     Preview (first 5): ông nguyễn văn quảng ,
+2026-04-08 21:18:30,443 - INFO - Sample 3:
+2026-04-08 21:18:30,443 - INFO -   full_text_tokens: 195 tokens
+2026-04-08 21:18:30,443 - INFO -     Preview (first 5): ba ôtô tông liên_hoàn ở
+2026-04-08 21:18:30,443 - INFO -   metadata_text_tokens: 98 tokens
+2026-04-08 21:18:30,447 - INFO -     Preview (first 5): tp hcm - ba xe
+2026-04-08 21:18:30,447 - INFO - 
+================================================================================
+2026-04-08 21:18:30,448 - INFO - [PRODUCTION SUMMARY]
+2026-04-08 21:18:30,448 - INFO - ================================================================================
+2026-04-08 21:18:30,448 - INFO - 
+Total documents processed: 13159
+2026-04-08 21:18:30,448 - INFO - Documents updated: 13159
+2026-04-08 21:18:30,448 - INFO - Tokenization errors: 0
+2026-04-08 21:18:30,448 - INFO - 
+Token statistics:
+2026-04-08 21:18:30,448 - INFO -   - Average tokens per document (full_text): 635.8
+2026-04-08 21:18:30,449 - INFO -   - Average tokens per document (metadata_text): 75.0
+2026-04-08 21:18:30,449 - INFO -   - Total full_text tokens: 8,366,599
+2026-04-08 21:18:30,449 - INFO -   - Total metadata_text tokens: 987,064
+2026-04-08 21:18:30,449 - INFO - 
+Execution time: 1152.81 seconds (19.21 minutes)
+2026-04-08 21:18:30,449 - INFO - Timestamp: 2026-04-08T21:18:30.449617
+2026-04-08 21:18:30,449 - INFO - ================================================================================

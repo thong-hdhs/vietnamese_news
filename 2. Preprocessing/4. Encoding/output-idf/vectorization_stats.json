@@ -1,0 +1,45 @@
+{
+  "execution": {
+    "timestamp": "2026-04-08T23:28:50.935926",
+    "total_time_seconds": 348.61892533302307,
+    "fit_time_seconds": 14.27646517753601,
+    "transform_time_seconds": 5.850742340087891,
+    "concatenate_time_seconds": 0.06123042106628418,
+    "save_time_seconds": 0.035302162170410156
+  },
+  "input": {
+    "n_documents": 13159,
+    "n_labeled": 3290,
+    "n_unlabeled": 9869
+  },
+  "tfidf_config": {
+    "max_features": 5000,
+    "min_df": 2,
+    "max_df": 0.8,
+    "ngram_range": [
+      1,
+      2
+    ],
+    "sublinear_tf": true,
+    "norm": "l2"
+  },
+  "output": {
+    "X_matrix_shape": [
+      13159,
+      5005
+    ],
+    "X_matrix_format": "sparse (csr_matrix)",
+    "X_tfidf_features": 5000,
+    "X_site_features": 5,
+    "X_total_features": 5005,
+    "y_labels_shape": [
+      13159
+    ],
+    "sparsity_percent": 95.7
+  },
+  "quality_checks": {
+    "checks_passed": 6,
+    "checks_total": 6,
+    "status": "PASSED"
+  }
+}
