@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 PHASE 5.2: VECTORIZATION (TF-IDF Production)
-- Read 13,159 documents from MongoDB
+- Read documents from MongoDB
 - Extract: full_text_tokens, site_onehot, category_encoded
 - Apply TF-IDF vectorization (Unigrams + Bigrams)
 - Concatenate with site_onehot features
@@ -63,7 +63,7 @@ for i, doc in enumerate(collection.find({}), 1):
     texts_list.append(text_string)
     
     # Extract site_onehot (already encoded)
-    site_onehot = doc.get('site_onehot', [0, 0, 0, 0, 0])
+    site_onehot = doc.get('site_onehot', [0, 0, 0, 0])
     site_list.append(site_onehot)
     
     # Extract category_encoded (0-6 for labeled, -1 for unlabeled)
@@ -177,16 +177,18 @@ checks_total = 0
 
 # Check 1: Shape verification
 checks_total += 1
-if X_combined.shape == (13159, 5005):
-    print(f"✓ Check 1: X matrix shape (13159, 5005)")
+site_features = len(site_list[0]) if site_list else 0
+expected_features = 5000 + site_features
+if X_combined.shape == (total_docs, expected_features):
+    print(f"✓ Check 1: X matrix shape ({total_docs}, {expected_features})")
     checks_passed += 1
 else:
     print(f"✗ Check 1: FAILED - X matrix shape {X_combined.shape}")
 
 # Check 2: Y shape
 checks_total += 1
-if y.shape == (13159,):
-    print(f"✓ Check 2: y labels shape (13159,)")
+if y.shape == (total_docs,):
+    print(f"✓ Check 2: y labels shape ({total_docs},)")
     checks_passed += 1
 else:
     print(f"✗ Check 2: FAILED - y labels shape {y.shape}")
@@ -219,8 +221,8 @@ else:
 
 # Check 6: Labeled/Unlabeled split
 checks_total += 1
-if labeled_count == 3290 and unlabeled_count == 9869:
-    print(f"✓ Check 6: Labeled/Unlabeled split (3290/9869) verified")
+if labeled_count + unlabeled_count == total_docs:
+    print(f"✓ Check 6: Labeled/Unlabeled split ({labeled_count}/{unlabeled_count}) equals total docs")
     checks_passed += 1
 else:
     print(f"✗ Check 6: FAILED - Unexpected split ({labeled_count}/{unlabeled_count})")
@@ -293,8 +295,8 @@ try:
             "X_matrix_shape": list(X_combined.shape),
             "X_matrix_format": "sparse (csr_matrix)",
             "X_tfidf_features": 5000,
-            "X_site_features": 5,
-            "X_total_features": 5005,
+            "X_site_features": int(site_features),
+            "X_total_features": int(expected_features),
             "y_labels_shape": list(y.shape),
             "sparsity_percent": round((1 - X_combined.nnz / (X_combined.shape[0] * X_combined.shape[1])) * 100, 1)
         },
@@ -323,7 +325,7 @@ print(f"""
 ✅ VECTORIZATION COMPLETE
 
 Input:
-  ✓ 13,159 documents from MongoDB
+  ✓ {total_docs:,} documents from MongoDB
   ✓ full_text_tokens extracted
   ✓ site_onehot extracted
   ✓ category_encoded extracted
@@ -336,14 +338,14 @@ TF-IDF Configuration:
   ✓ norm: L2
 
 Output:
-  ✓ X_matrix: (13,159 × 5,005) sparse matrix
+  ✓ X_matrix: ({total_docs:,} × {expected_features:,}) sparse matrix
     - 5,000 TF-IDF features
-    - 5 site_onehot features
+    - {site_features} site_onehot features
     - Sparsity: {stats['output']['sparsity_percent']:.1f}%
   
-  ✓ y_labels: (13,159,) array
-    - Labeled: {labeled_count:,} (25.0%)
-    - Unlabeled: {unlabeled_count:,} (75.0%)
+  ✓ y_labels: ({total_docs:,},) array
+    - Labeled: {labeled_count:,} ({labeled_count/total_docs*100:.1f}%)
+    - Unlabeled: {unlabeled_count:,} ({unlabeled_count/total_docs*100:.1f}%)
   
   ✓ vectorizer.pkl: Saved (reuse for inference)
   ✓ vectorization_stats.json: Saved (metadata)
@@ -366,7 +368,7 @@ Quality Checks: {checks_passed}/{checks_total} PASSED ✓
 Next Step:
   → PHASE 5.3: Train Baseline LogisticRegression Model
   → Load X_matrix.pkl + y_labels.pkl
-  → Train on labeled data (3,290 docs)
+  → Train on labeled data ({labeled_count:,} docs)
   → Evaluate on same data (F1 baseline)
 
 Ready for PHASE 5.3 ✅

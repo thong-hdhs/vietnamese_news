@@ -79,7 +79,7 @@ def visualize_categories(category_stats):
     counts = [category_stats[cat] for cat in categories]
     
     # Màu sắc cho biểu đồ - Màu đậm, sáng, đẹp
-    colors = ["#F11800", "#0804F4", "#59FF00", "#FD9400", "#8E00C6", "#00FFCC", "#F44B39", "#07539F"]
+    colors = ["#0D6277", "#009560" , "#81AB1C", "#BEAD00", "#E67E22", "#FFA601", "#5950C5" , "#C90823"]
     
     # Tạo biểu đồ cột
     fig, ax = plt.subplots(figsize=(14, 12))

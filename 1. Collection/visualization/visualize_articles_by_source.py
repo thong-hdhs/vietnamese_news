@@ -75,7 +75,7 @@ def visualize_data(sources_data):
     counts = list(sources_data.values())
     
     # Màu sắc cho biểu đồ
-    colors = ["#fc0303", "#0810E1" , "#EFE706", "#09971A", "#4F075F"]
+    colors = ["#94BE3C", "#02C79D" , "#00889F", "#016A95", "#292F56"]
     
     # ============ PIE CHART - FIGURE 1 ============
     fig1, ax1 = plt.subplots(figsize=(10, 8))

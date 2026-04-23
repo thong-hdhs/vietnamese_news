@@ -1,0 +1,3082 @@
+[
+  {
+    "index": 393,
+    "title": "",
+    "url": "https://vnexpress.net/lpbank-ra-mat-ung-dung-ngan-hang-so-tich-hop-ai-5055720.html",
+    "site": "vnexpress",
+    "predicted_label": 0,
+    "confidence": 0.785439028642461,
+    "top_3_classes": [
+      {
+        "class": 0,
+        "probability": 0.785439028642461
+      },
+      {
+        "class": 3,
+        "probability": 0.2098594287698074
+      },
+      {
+        "class": 4,
+        "probability": 0.002236517474463768
+      }
+    ]
+  },
+  {
+    "index": 473,
+    "title": "",
+    "url": "https://vnexpress.net/sap-dien-ra-su-kien-ve-xu-huong-cong-nghe-bao-hiem-tai-tp-hcm-5053790.html",
+    "site": "vnexpress",
+    "predicted_label": 0,
+    "confidence": 0.5687200392534728,
+    "top_3_classes": [
+      {
+        "class": 0,
+        "probability": 0.5687200392534728
+      },
+      {
+        "class": 3,
+        "probability": 0.4250227910501761
+      },
+      {
+        "class": 2,
+        "probability": 0.0042109413892328345
+      }
+    ]
+  },
+  {
+    "index": 514,
+    "title": "",
+    "url": "https://vnexpress.net/tu-the-chip-dau-tien-den-ngan-hang-so-17-trieu-nguoi-dung-5049284.html",
+    "site": "vnexpress",
+    "predicted_label": 0,
+    "confidence": 0.556983037575587,
+    "top_3_classes": [
+      {
+        "class": 0,
+        "probability": 0.556983037575587
+      },
+      {
+        "class": 3,
+        "probability": 0.4379538534131847
+      },
+      {
+        "class": 6,
+        "probability": 0.0028207512448063746
+      }
+    ]
+  },
+  {
+    "index": 549,
+    "title": "",
+    "url": "https://vnexpress.net/ceo-nvidia-du-bao-doanh-thu-1-000-ty-usd-tu-don-hang-chip-nam-nay-5051636.html",
+    "site": "vnexpress",
+    "predicted_label": 0,
+    "confidence": 0.6882816122113617,
+    "top_3_classes": [
+      {
+        "class": 0,
+        "probability": 0.6882816122113617
+      },
+      {
+        "class": 3,
+        "probability": 0.3039606537890009
+      },
+      {
+        "class": 1,
+        "probability": 0.0029581197591124738
+      }
+    ]
+  },
+  {
+    "index": 573,
+    "title": "",
+    "url": "https://vnexpress.net/lam-theo-truc-giac-khien-nhieu-nha-dau-tu-thua-lo-5050834.html",
+    "site": "vnexpress",
+    "predicted_label": 0,
+    "confidence": 0.6389066506365891,
+    "top_3_classes": [
+      {
+        "class": 0,
+        "probability": 0.6389066506365891
+      },
+      {
+        "class": 3,
+        "probability": 0.2856034003043181
+      },
+      {
+        "class": 1,
+        "probability": 0.04014540824054132
+      }
+    ]
+  },
+  {
+    "index": 599,
+    "title": "",
+    "url": "https://vnexpress.net/gioi-ty-phu-ai-toan-cau-so-huu-khoi-tai-san-gan-3-000-ty-usd-5050040.html",
+    "site": "vnexpress",
+    "predicted_label": 0,
+    "confidence": 0.5580138341563405,
+    "top_3_classes": [
+      {
+        "class": 0,
+        "probability": 0.5580138341563405
+      },
+      {
+        "class": 3,
+        "probability": 0.4367634622608484
+      },
+      {
+        "class": 2,
+        "probability": 0.002483392271725715
+      }
+    ]
+  },
+  {
+    "index": 723,
+    "title": "",
+    "url": "https://vnexpress.net/loat-tinh-nang-moi-tren-ios-26-4-5055425.html",
+    "site": "vnexpress",
+    "predicted_label": 0,
+    "confidence": 0.481337537454211,
+    "top_3_classes": [
+      {
+        "class": 0,
+        "probability": 0.481337537454211
+      },
+      {
+        "class": 6,
+        "probability": 0.3132761154704092
+      },
+      {
+        "class": 2,
+        "probability": 0.11221418363717672
+      }
+    ]
+  },
+  {
+    "index": 724,
+    "title": "",
+    "url": "https://vnexpress.net/lan-dau-tien-van-chuyen-thanh-cong-hat-phan-vat-chat-5055193.html",
+    "site": "vnexpress",
+    "predicted_label": 0,
+    "confidence": 0.8794171980292,
+    "top_3_classes": [
+      {
+        "class": 0,
+        "probability": 0.8794171980292
+      },
+      {
+        "class": 3,
+        "probability": 0.052688737231852724
+      },
+      {
+        "class": 1,
+        "probability": 0.02884325986745575
+      }
+    ]
+  },
+  {
+    "index": 725,
+    "title": "",
+    "url": "https://vnexpress.net/jensen-huang-khong-hop-rieng-voi-cap-duoi-truc-tiep-5055416.html",
+    "site": "vnexpress",
+    "predicted_label": 0,
+    "confidence": 0.49473364399644415,
+    "top_3_classes": [
+      {
+        "class": 0,
+        "probability": 0.49473364399644415
+      },
+      {
+        "class": 2,
+        "probability": 0.3096896263189933
+      },
+      {
+        "class": 1,
+        "probability": 0.07488164628822572
+      }
+    ]
+  },
+  {
+    "index": 726,
+    "title": "",
+    "url": "https://vnexpress.net/google-cong-bo-thuat-toan-nen-sieu-hieu-qua-cho-ai-5055319.html",
+    "site": "vnexpress",
+    "predicted_label": 0,
+    "confidence": 0.9728454915307795,
+    "top_3_classes": [
+      {
+        "class": 0,
+        "probability": 0.9728454915307795
+      },
+      {
+        "class": 1,
+        "probability": 0.011806483945347663
+      },
+      {
+        "class": 3,
+        "probability": 0.008387102168109613
+      }
+    ]
+  },
+  {
+    "index": 727,
+    "title": "",
+    "url": "https://vnexpress.net/apple-ngung-san-xuat-mac-pro-5055379.html",
+    "site": "vnexpress",
+    "predicted_label": 0,
+    "confidence": 0.9563797996647049,
+    "top_3_classes": [
+      {
+        "class": 0,
+        "probability": 0.9563797996647049
+      },
+      {
+        "class": 3,
+        "probability": 0.02918351462581787
+      },
+      {
+        "class": 4,
+        "probability": 0.0045239151343950635
+      }
+    ]
+  },
+  {
+    "index": 728,
+    "title": "",
+    "url": "https://vnexpress.net/sap-ap-dung-quy-chuan-an-toan-cho-smartphone-tai-viet-nam-5054879.html",
+    "site": "vnexpress",
+    "predicted_label": 0,
+    "confidence": 0.8935401626183055,
+    "top_3_classes": [
+      {
+        "class": 0,
+        "probability": 0.8935401626183055
+      },
+      {
+        "class": 3,
+        "probability": 0.05001875829936854
+      },
+      {
+        "class": 6,
+        "probability": 0.036056652487322746
+      }
+    ]
+  },
+  {
+    "index": 729,
+    "title": "",
+    "url": "https://vnexpress.net/gia-han-nhan-ho-so-sang-kien-khoa-hoc-2026-5055190.html",
+    "site": "vnexpress",
+    "predicted_label": 0,
+    "confidence": 0.6054769839635435,
+    "top_3_classes": [
+      {
+        "class": 0,
+        "probability": 0.6054769839635435
+      },
+      {
+        "class": 1,
+        "probability": 0.2638765742312919
+      },
+      {
+        "class": 2,
+        "probability": 0.08914425586349774
+      }
+    ]
+  },
+  {
+    "index": 730,
+    "title": "",
+    "url": "https://vnexpress.net/trieu-chung-la-khi-lam-dung-ai-5054321.html",
+    "site": "vnexpress",
+    "predicted_label": 0,
+    "confidence": 0.9421730541308986,
+    "top_3_classes": [
+      {
+        "class": 0,
+        "probability": 0.9421730541308986
+      },
+      {
+        "class": 4,
+        "probability": 0.0216875684720446
+      },
+      {
+        "class": 1,
+        "probability": 0.02126375893187401
+      }
+    ]
+  },
+  {
+    "index": 731,
+    "title": "",
+    "url": "https://vnexpress.net/vat-the-nghi-manh-thien-thach-roi-thung-mai-nha-dan-5055061.html",
+    "site": "vnexpress",
+    "predicted_label": 0,
+    "confidence": 0.38522319292215523,
+    "top_3_classes": [
+      {
+        "class": 0,
+        "probability": 0.38522319292215523
+      },
+      {
+        "class": 6,
+        "probability": 0.37630945172770003
+      },
+      {
+        "class": 2,
+        "probability": 0.0763608012841261
+      }
+    ]
+  },
+  {
+    "index": 732,
+    "title": "",
+    "url": "https://vnexpress.net/nha-dong-sang-lap-thu-10-roi-xai-5055013.html",
+    "site": "vnexpress",
+    "predicted_label": 0,
+    "confidence": 0.7296348816994201,
+    "top_3_classes": [
+      {
+        "class": 0,
+        "probability": 0.7296348816994201
+      },
+      {
+        "class": 3,
+        "probability": 0.15186812200404026
+      },
+      {
+        "class": 5,
+        "probability": 0.037895383070250276
+      }
+    ]
+  },
+  {
+    "index": 734,
+    "title": "",
+    "url": "https://vnexpress.net/nga-phong-ve-tinh-tao-mang-luoi-internet-canh-tranh-starlink-5054867.html",
+    "site": "vnexpress",
+    "predicted_label": 0,
+    "confidence": 0.8129050567672816,
+    "top_3_classes": [
+      {
+        "class": 0,
+        "probability": 0.8129050567672816
+      },
+      {
+        "class": 3,
+        "probability": 0.16311731771594923
+      },
+      {
+        "class": 6,
+        "probability": 0.009546039568642273
+      }
+    ]
+  },
+  {
+    "index": 735,
+    "title": "",
+    "url": "https://vnexpress.net/nvidia-xay-thanh-tri-moi-sau-thanh-cong-voi-chip-ai-5054125.html",
+    "site": "vnexpress",
+    "predicted_label": 0,
+    "confidence": 0.7394781495894562,
+    "top_3_classes": [
+      {
+        "class": 0,
+        "probability": 0.7394781495894562
+      },
+      {
+        "class": 3,
+        "probability": 0.2543726507750003
+      },
+      {
+        "class": 2,
+        "probability": 0.0030954310283755606
+      }
+    ]
+  },
+  {
+    "index": 737,
+    "title": "",
+    "url": "https://vnexpress.net/robot-giao-hang-huc-vo-cua-kinh-ben-xe-buyt-5054643.html",
+    "site": "vnexpress",
+    "predicted_label": 0,
+    "confidence": 0.600427805811145,
+    "top_3_classes": [
+      {
+        "class": 0,
+        "probability": 0.600427805811145
+      },
+      {
+        "class": 3,
+        "probability": 0.1337471079676795
+      },
+      {
+        "class": 2,
+        "probability": 0.12849739200313876
+      }
+    ]
+  },
+  {
+    "index": 738,
+    "title": "",
+    "url": "https://vnexpress.net/galaxy-a57-va-a37-5g-nang-cap-cong-nghe-camera-ai-5054801.html",
+    "site": "vnexpress",
+    "predicted_label": 0,
+    "confidence": 0.9804786446166857,
+    "top_3_classes": [
+      {
+        "class": 0,
+        "probability": 0.9804786446166857
+      },
+      {
+        "class": 3,
+        "probability": 0.006880623800239053
+      },
+      {
+        "class": 4,
+        "probability": 0.006500610269073305
+      }
+    ]
+  },
+  {
+    "index": 54,
+    "title": "",
+    "url": "https://vnexpress.net/quy-hy-vong-dat-muc-tieu-ho-tro-265-diem-truong-nam-2026-5056084.html",
+    "site": "vnexpress",
+    "predicted_label": 1,
+    "confidence": 0.8407868136036265,
+    "top_3_classes": [
+      {
+        "class": 1,
+        "probability": 0.8407868136036265
+      },
+      {
+        "class": 3,
+        "probability": 0.10987357611030042
+      },
+      {
+        "class": 6,
+        "probability": 0.04388803001897598
+      }
+    ]
+  },
+  {
+    "index": 70,
+    "title": "",
+    "url": "https://vnexpress.net/khanh-thanh-bep-an-ban-tru-cho-tre-mam-non-vung-cao-5055839.html",
+    "site": "vnexpress",
+    "predicted_label": 1,
+    "confidence": 0.908582274441773,
+    "top_3_classes": [
+      {
+        "class": 1,
+        "probability": 0.908582274441773
+      },
+      {
+        "class": 4,
+        "probability": 0.049189869198311295
+      },
+      {
+        "class": 3,
+        "probability": 0.021040479245161843
+      }
+    ]
+  },
+  {
+    "index": 89,
+    "title": "",
+    "url": "https://vnexpress.net/ong-nguyen-van-phuc-thoi-giu-chuc-thu-truong-giao-duc-va-dao-tao-5055678.html",
+    "site": "vnexpress",
+    "predicted_label": 1,
+    "confidence": 0.9729732387533485,
+    "top_3_classes": [
+      {
+        "class": 1,
+        "probability": 0.9729732387533485
+      },
+      {
+        "class": 6,
+        "probability": 0.016131886794529503
+      },
+      {
+        "class": 2,
+        "probability": 0.004480989051990433
+      }
+    ]
+  },
+  {
+    "index": 154,
+    "title": "",
+    "url": "https://vnexpress.net/cuoc-doi-duc-hong-y-gioan-baotixita-pham-minh-man-5053789.html",
+    "site": "vnexpress",
+    "predicted_label": 1,
+    "confidence": 0.6630962306072258,
+    "top_3_classes": [
+      {
+        "class": 1,
+        "probability": 0.6630962306072258
+      },
+      {
+        "class": 6,
+        "probability": 0.20204636906034712
+      },
+      {
+        "class": 2,
+        "probability": 0.06970821923061651
+      }
+    ]
+  },
+  {
+    "index": 179,
+    "title": "",
+    "url": "https://vnexpress.net/nguoi-o-du-dau-tien-trung-cu-dai-bieu-quoc-hoi-5053311.html",
+    "site": "vnexpress",
+    "predicted_label": 1,
+    "confidence": 0.7696593364102199,
+    "top_3_classes": [
+      {
+        "class": 1,
+        "probability": 0.7696593364102199
+      },
+      {
+        "class": 6,
+        "probability": 0.18244367342434184
+      },
+      {
+        "class": 2,
+        "probability": 0.041578009134271725
+      }
+    ]
+  },
+  {
+    "index": 180,
+    "title": "",
+    "url": "https://vnexpress.net/tre-mam-non-sung-bang-co-truong-moi-5053182.html",
+    "site": "vnexpress",
+    "predicted_label": 1,
+    "confidence": 0.8732691341372526,
+    "top_3_classes": [
+      {
+        "class": 1,
+        "probability": 0.8732691341372526
+      },
+      {
+        "class": 6,
+        "probability": 0.09469460222474434
+      },
+      {
+        "class": 3,
+        "probability": 0.024285919444793046
+      }
+    ]
+  },
+  {
+    "index": 211,
+    "title": "",
+    "url": "https://vnexpress.net/khanh-thanh-truong-mam-non-2-2-ty-dong-o-vung-cao-da-nang-5052793.html",
+    "site": "vnexpress",
+    "predicted_label": 1,
+    "confidence": 0.5971898790388804,
+    "top_3_classes": [
+      {
+        "class": 1,
+        "probability": 0.5971898790388804
+      },
+      {
+        "class": 6,
+        "probability": 0.33336563078598064
+      },
+      {
+        "class": 3,
+        "probability": 0.06341945423037014
+      }
+    ]
+  },
+  {
+    "index": 277,
+    "title": "",
+    "url": "https://vnexpress.net/nhieu-nhan-vien-khoi-fdi-nghi-viec-di-hoc-tieng-trung-5050190.html",
+    "site": "vnexpress",
+    "predicted_label": 1,
+    "confidence": 0.6504455923853822,
+    "top_3_classes": [
+      {
+        "class": 1,
+        "probability": 0.6504455923853822
+      },
+      {
+        "class": 3,
+        "probability": 0.28779314952887536
+      },
+      {
+        "class": 2,
+        "probability": 0.03182237413778044
+      }
+    ]
+  },
+  {
+    "index": 295,
+    "title": "",
+    "url": "https://vnexpress.net/ung-vien-nganh-giao-duc-cam-ket-gan-dao-tao-voi-nhu-cau-viec-lam-5050379.html",
+    "site": "vnexpress",
+    "predicted_label": 1,
+    "confidence": 0.6694612655511718,
+    "top_3_classes": [
+      {
+        "class": 1,
+        "probability": 0.6694612655511718
+      },
+      {
+        "class": 6,
+        "probability": 0.32345151688564916
+      },
+      {
+        "class": 3,
+        "probability": 0.00349574572815099
+      }
+    ]
+  },
+  {
+    "index": 337,
+    "title": "",
+    "url": "https://vnexpress.net/pho-chu-tich-tinh-vinh-long-lam-thu-truong-giao-duc-va-dao-tao-5049338.html",
+    "site": "vnexpress",
+    "predicted_label": 1,
+    "confidence": 0.613976114939187,
+    "top_3_classes": [
+      {
+        "class": 1,
+        "probability": 0.613976114939187
+      },
+      {
+        "class": 6,
+        "probability": 0.3823849230897207
+      },
+      {
+        "class": 3,
+        "probability": 0.0015025079967761273
+      }
+    ]
+  },
+  {
+    "index": 744,
+    "title": "",
+    "url": "https://vnexpress.net/tien-si-phuc-trang-thanh-cong-giong-nep-tien-vua-5053635.html",
+    "site": "vnexpress",
+    "predicted_label": 1,
+    "confidence": 0.27042233491900214,
+    "top_3_classes": [
+      {
+        "class": 1,
+        "probability": 0.27042233491900214
+      },
+      {
+        "class": 0,
+        "probability": 0.23013174026985564
+      },
+      {
+        "class": 6,
+        "probability": 0.22847388243779684
+      }
+    ]
+  },
+  {
+    "index": 773,
+    "title": "",
+    "url": "https://vnexpress.net/cac-nha-khoa-hoc-trung-cu-dai-bieu-quoc-hoi-khoa-16-5053335.html",
+    "site": "vnexpress",
+    "predicted_label": 1,
+    "confidence": 0.5713599058836143,
+    "top_3_classes": [
+      {
+        "class": 1,
+        "probability": 0.5713599058836143
+      },
+      {
+        "class": 6,
+        "probability": 0.40597172158308414
+      },
+      {
+        "class": 0,
+        "probability": 0.009641187501465432
+      }
+    ]
+  },
+  {
+    "index": 798,
+    "title": "",
+    "url": "https://vnexpress.net/fpt-khoi-cong-to-hop-giao-duc-tai-hai-phong-5052356.html",
+    "site": "vnexpress",
+    "predicted_label": 1,
+    "confidence": 0.8130345246241617,
+    "top_3_classes": [
+      {
+        "class": 1,
+        "probability": 0.8130345246241617
+      },
+      {
+        "class": 6,
+        "probability": 0.08105855650511455
+      },
+      {
+        "class": 0,
+        "probability": 0.06174884976773896
+      }
+    ]
+  },
+  {
+    "index": 812,
+    "title": "",
+    "url": "https://vnexpress.net/hai-truong-cong-nghe-hop-tac-uom-tao-5-10-doanh-nghiep-moi-nam-5051645.html",
+    "site": "vnexpress",
+    "predicted_label": 1,
+    "confidence": 0.6637015997342359,
+    "top_3_classes": [
+      {
+        "class": 1,
+        "probability": 0.6637015997342359
+      },
+      {
+        "class": 0,
+        "probability": 0.30446242794996975
+      },
+      {
+        "class": 3,
+        "probability": 0.02687681006147576
+      }
+    ]
+  },
+  {
+    "index": 1184,
+    "title": "",
+    "url": "https://vnexpress.net/tre-em-viet-chi-van-dong-trung-binh-70-phut-mot-tuan-5055695.html",
+    "site": "vnexpress",
+    "predicted_label": 1,
+    "confidence": 0.8596121124827523,
+    "top_3_classes": [
+      {
+        "class": 1,
+        "probability": 0.8596121124827523
+      },
+      {
+        "class": 4,
+        "probability": 0.1159528159367625
+      },
+      {
+        "class": 5,
+        "probability": 0.018983747094865725
+      }
+    ]
+  },
+  {
+    "index": 1187,
+    "title": "",
+    "url": "https://vnexpress.net/nhan-vien-ve-sinh-tro-thanh-bac-si-noi-tru-tai-dai-hoc-top-10-the-gioi-5055127.html",
+    "site": "vnexpress",
+    "predicted_label": 1,
+    "confidence": 0.40872731412906493,
+    "top_3_classes": [
+      {
+        "class": 1,
+        "probability": 0.40872731412906493
+      },
+      {
+        "class": 4,
+        "probability": 0.3273614497263284
+      },
+      {
+        "class": 2,
+        "probability": 0.251836050695185
+      }
+    ]
+  },
+  {
+    "index": 1291,
+    "title": "",
+    "url": "https://vnexpress.net/sach-ve-lich-su-loai-nguoi-qua-lang-kinh-dna-5052943.html",
+    "site": "vnexpress",
+    "predicted_label": 1,
+    "confidence": 0.5684313505516746,
+    "top_3_classes": [
+      {
+        "class": 1,
+        "probability": 0.5684313505516746
+      },
+      {
+        "class": 2,
+        "probability": 0.4037842605655365
+      },
+      {
+        "class": 0,
+        "probability": 0.0075640680217735025
+      }
+    ]
+  },
+  {
+    "index": 2018,
+    "title": "",
+    "url": "https://vnexpress.net/du-hoc-sinh-australia-choang-vang-vi-visa-thay-doi-chong-mat-5050648.html",
+    "site": "vnexpress",
+    "predicted_label": 1,
+    "confidence": 0.866247924182001,
+    "top_3_classes": [
+      {
+        "class": 1,
+        "probability": 0.866247924182001
+      },
+      {
+        "class": 3,
+        "probability": 0.09789452715424045
+      },
+      {
+        "class": 0,
+        "probability": 0.016713591821914942
+      }
+    ]
+  },
+  {
+    "index": 2019,
+    "title": "",
+    "url": "https://vnexpress.net/them-2-truong-cong-lap-moi-o-ha-noi-tuyen-lop-10-5053495.html",
+    "site": "vnexpress",
+    "predicted_label": 1,
+    "confidence": 0.8905010646868442,
+    "top_3_classes": [
+      {
+        "class": 1,
+        "probability": 0.8905010646868442
+      },
+      {
+        "class": 6,
+        "probability": 0.10144251552333068
+      },
+      {
+        "class": 4,
+        "probability": 0.0027692188852393067
+      }
+    ]
+  },
+  {
+    "index": 2020,
+    "title": "",
+    "url": "https://vnexpress.net/vai-tro-cua-nguoi-thay-la-to-chuc-cho-sinh-vien-tu-hoc-5054158.html",
+    "site": "vnexpress",
+    "predicted_label": 1,
+    "confidence": 0.9037913759227336,
+    "top_3_classes": [
+      {
+        "class": 1,
+        "probability": 0.9037913759227336
+      },
+      {
+        "class": 0,
+        "probability": 0.0736657652974874
+      },
+      {
+        "class": 2,
+        "probability": 0.009242590074083248
+      }
+    ]
+  },
+  {
+    "index": 104,
+    "title": "",
+    "url": "https://vnexpress.net/500-linh-muc-cu-hanh-thanh-le-an-tang-duc-hong-y-pham-minh-man-5055373.html",
+    "site": "vnexpress",
+    "predicted_label": 2,
+    "confidence": 0.3939623046467614,
+    "top_3_classes": [
+      {
+        "class": 2,
+        "probability": 0.3939623046467614
+      },
+      {
+        "class": 5,
+        "probability": 0.25348960764431305
+      },
+      {
+        "class": 6,
+        "probability": 0.2359825547654409
+      }
+    ]
+  },
+  {
+    "index": 733,
+    "title": "",
+    "url": "https://vnexpress.net/mark-zuckerberg-thua-nhan-tung-giong-robot-vung-giao-tiep-5054400.html",
+    "site": "vnexpress",
+    "predicted_label": 2,
+    "confidence": 0.8412832690670344,
+    "top_3_classes": [
+      {
+        "class": 2,
+        "probability": 0.8412832690670344
+      },
+      {
+        "class": 0,
+        "probability": 0.057592495706120406
+      },
+      {
+        "class": 5,
+        "probability": 0.03974378741642824
+      }
+    ]
+  },
+  {
+    "index": 877,
+    "title": "",
+    "url": "https://vnexpress.net/xu-huong-nguoi-tre-day-cuoc-tro-chuyen-kho-cho-ai-5048440.html",
+    "site": "vnexpress",
+    "predicted_label": 2,
+    "confidence": 0.5248642327998537,
+    "top_3_classes": [
+      {
+        "class": 2,
+        "probability": 0.5248642327998537
+      },
+      {
+        "class": 0,
+        "probability": 0.25135153004114985
+      },
+      {
+        "class": 1,
+        "probability": 0.13456052943693222
+      }
+    ]
+  },
+  {
+    "index": 1043,
+    "title": "",
+    "url": "https://vnexpress.net/phim-ngan-trung-quoc-tao-bang-ai-hut-hang-ty-luot-xem-5039776.html",
+    "site": "vnexpress",
+    "predicted_label": 2,
+    "confidence": 0.6011584242478971,
+    "top_3_classes": [
+      {
+        "class": 2,
+        "probability": 0.6011584242478971
+      },
+      {
+        "class": 0,
+        "probability": 0.3864991514278969
+      },
+      {
+        "class": 5,
+        "probability": 0.00456437751331939
+      }
+    ]
+  },
+  {
+    "index": 1045,
+    "title": "",
+    "url": "https://vnexpress.net/hang-trieu-phu-nu-tim-ban-trai-ao-qua-game-hen-ho-cua-trung-quoc-5040995.html",
+    "site": "vnexpress",
+    "predicted_label": 2,
+    "confidence": 0.698112300260032,
+    "top_3_classes": [
+      {
+        "class": 2,
+        "probability": 0.698112300260032
+      },
+      {
+        "class": 0,
+        "probability": 0.22653845450469356
+      },
+      {
+        "class": 3,
+        "probability": 0.06142837707089836
+      }
+    ]
+  },
+  {
+    "index": 1053,
+    "title": "",
+    "url": "https://vnexpress.net/robot-trung-quoc-mua-con-bieu-dien-tuy-quyen-trong-gala-nam-moi-5041906.html",
+    "site": "vnexpress",
+    "predicted_label": 2,
+    "confidence": 0.8318776361825149,
+    "top_3_classes": [
+      {
+        "class": 2,
+        "probability": 0.8318776361825149
+      },
+      {
+        "class": 0,
+        "probability": 0.06935725978728266
+      },
+      {
+        "class": 5,
+        "probability": 0.05126807612510924
+      }
+    ]
+  },
+  {
+    "index": 1059,
+    "title": "",
+    "url": "https://vnexpress.net/ung-dung-phim-ngan-len-ngoi-ngay-tet-5041672.html",
+    "site": "vnexpress",
+    "predicted_label": 2,
+    "confidence": 0.7323565486142124,
+    "top_3_classes": [
+      {
+        "class": 2,
+        "probability": 0.7323565486142124
+      },
+      {
+        "class": 0,
+        "probability": 0.1581508079670238
+      },
+      {
+        "class": 5,
+        "probability": 0.05706347175970096
+      }
+    ]
+  },
+  {
+    "index": 1192,
+    "title": "",
+    "url": "https://vnexpress.net/cuoc-chien-gianh-cai-chet-em-diu-cua-co-gai-25-tuoi-5055385.html",
+    "site": "vnexpress",
+    "predicted_label": 2,
+    "confidence": 0.4480188654637174,
+    "top_3_classes": [
+      {
+        "class": 2,
+        "probability": 0.4480188654637174
+      },
+      {
+        "class": 4,
+        "probability": 0.2662464015655507
+      },
+      {
+        "class": 5,
+        "probability": 0.1691200041222843
+      }
+    ]
+  },
+  {
+    "index": 1261,
+    "title": "",
+    "url": "https://vnexpress.net/nghe-si-quoc-khanh-tung-hung-ve-ai-trong-tieu-pham-tao-quan-5056242.html",
+    "site": "vnexpress",
+    "predicted_label": 2,
+    "confidence": 0.9593023205808171,
+    "top_3_classes": [
+      {
+        "class": 2,
+        "probability": 0.9593023205808171
+      },
+      {
+        "class": 1,
+        "probability": 0.024256217753353064
+      },
+      {
+        "class": 5,
+        "probability": 0.006070633857139822
+      }
+    ]
+  },
+  {
+    "index": 1262,
+    "title": "",
+    "url": "https://vnexpress.net/ban-trai-co-vu-y-nhi-tai-miss-world-vietnam-2025-5056215.html",
+    "site": "vnexpress",
+    "predicted_label": 2,
+    "confidence": 0.9649486766240333,
+    "top_3_classes": [
+      {
+        "class": 2,
+        "probability": 0.9649486766240333
+      },
+      {
+        "class": 5,
+        "probability": 0.016187322475716078
+      },
+      {
+        "class": 1,
+        "probability": 0.006811562254594704
+      }
+    ]
+  },
+  {
+    "index": 1263,
+    "title": "",
+    "url": "https://vnexpress.net/ao-anh-trong-xa-hoi-du-thua-ket-noi-5051735.html",
+    "site": "vnexpress",
+    "predicted_label": 2,
+    "confidence": 0.9410985857495394,
+    "top_3_classes": [
+      {
+        "class": 2,
+        "probability": 0.9410985857495394
+      },
+      {
+        "class": 1,
+        "probability": 0.037883373619223074
+      },
+      {
+        "class": 6,
+        "probability": 0.008280718739252343
+      }
+    ]
+  },
+  {
+    "index": 1264,
+    "title": "",
+    "url": "https://vnexpress.net/nhan-sac-tan-miss-world-vietnam-5056214.html",
+    "site": "vnexpress",
+    "predicted_label": 2,
+    "confidence": 0.9593826545425477,
+    "top_3_classes": [
+      {
+        "class": 2,
+        "probability": 0.9593826545425477
+      },
+      {
+        "class": 1,
+        "probability": 0.018722343187993283
+      },
+      {
+        "class": 6,
+        "probability": 0.014483394188847577
+      }
+    ]
+  },
+  {
+    "index": 1265,
+    "title": "",
+    "url": "https://vnexpress.net/tieu-vuong-phi-bi-chi-trich-5056271.html",
+    "site": "vnexpress",
+    "predicted_label": 2,
+    "confidence": 0.9711119085093183,
+    "top_3_classes": [
+      {
+        "class": 2,
+        "probability": 0.9711119085093183
+      },
+      {
+        "class": 5,
+        "probability": 0.01637830844829543
+      },
+      {
+        "class": 6,
+        "probability": 0.004837720152797202
+      }
+    ]
+  },
+  {
+    "index": 1266,
+    "title": "",
+    "url": "https://vnexpress.net/chung-ket-miss-world-vietnam-2025-5056125-tong-thuat.html",
+    "site": "vnexpress",
+    "predicted_label": 2,
+    "confidence": 0.9571963789736703,
+    "top_3_classes": [
+      {
+        "class": 2,
+        "probability": 0.9571963789736703
+      },
+      {
+        "class": 1,
+        "probability": 0.01959609978932509
+      },
+      {
+        "class": 5,
+        "probability": 0.018811786724846877
+      }
+    ]
+  },
+  {
+    "index": 1267,
+    "title": "",
+    "url": "https://vnexpress.net/katy-perry-va-cuu-thu-tuong-canada-dua-ve-chuyen-tuoi-tac-5056090.html",
+    "site": "vnexpress",
+    "predicted_label": 2,
+    "confidence": 0.9566480376053261,
+    "top_3_classes": [
+      {
+        "class": 2,
+        "probability": 0.9566480376053261
+      },
+      {
+        "class": 5,
+        "probability": 0.015861226010281372
+      },
+      {
+        "class": 3,
+        "probability": 0.01241569152440858
+      }
+    ]
+  },
+  {
+    "index": 1268,
+    "title": "",
+    "url": "https://vnexpress.net/giai-tri/phim/thu-vien-phim/hen-em-ngay-nhat-thuc-893",
+    "site": "vnexpress",
+    "predicted_label": 2,
+    "confidence": 0.9618967504729558,
+    "top_3_classes": [
+      {
+        "class": 2,
+        "probability": 0.9618967504729558
+      },
+      {
+        "class": 5,
+        "probability": 0.016521585873410193
+      },
+      {
+        "class": 6,
+        "probability": 0.016340516888096162
+      }
+    ]
+  },
+  {
+    "index": 1269,
+    "title": "",
+    "url": "https://vnexpress.net/nghe-si-thanh-thanh-tam-xuc-dong-khi-tai-ngo-khan-gia-sau-14-nam-5055975.html",
+    "site": "vnexpress",
+    "predicted_label": 2,
+    "confidence": 0.9402368091345081,
+    "top_3_classes": [
+      {
+        "class": 2,
+        "probability": 0.9402368091345081
+      },
+      {
+        "class": 6,
+        "probability": 0.033505617798473955
+      },
+      {
+        "class": 5,
+        "probability": 0.021517551590111383
+      }
+    ]
+  },
+  {
+    "index": 1270,
+    "title": "",
+    "url": "https://vnexpress.net/giai-tri/phim/thu-vien-phim/hoppers-892",
+    "site": "vnexpress",
+    "predicted_label": 2,
+    "confidence": 0.9502634926807509,
+    "top_3_classes": [
+      {
+        "class": 2,
+        "probability": 0.9502634926807509
+      },
+      {
+        "class": 0,
+        "probability": 0.028741025954015665
+      },
+      {
+        "class": 4,
+        "probability": 0.007434950225988848
+      }
+    ]
+  },
+  {
+    "index": 1271,
+    "title": "",
+    "url": "https://vnexpress.net/anh-tuyet-lam-dem-nhac-tuong-nho-trinh-cong-son-5055442.html",
+    "site": "vnexpress",
+    "predicted_label": 2,
+    "confidence": 0.9077471125398816,
+    "top_3_classes": [
+      {
+        "class": 2,
+        "probability": 0.9077471125398816
+      },
+      {
+        "class": 6,
+        "probability": 0.07421423086861367
+      },
+      {
+        "class": 3,
+        "probability": 0.0068719320943904216
+      }
+    ]
+  },
+  {
+    "index": 1272,
+    "title": "",
+    "url": "https://vnexpress.net/cuoc-song-vo-chong-son-cua-dinh-tu-ngoc-huyen-5054928.html",
+    "site": "vnexpress",
+    "predicted_label": 2,
+    "confidence": 0.9764189992089458,
+    "top_3_classes": [
+      {
+        "class": 2,
+        "probability": 0.9764189992089458
+      },
+      {
+        "class": 5,
+        "probability": 0.007436643464507125
+      },
+      {
+        "class": 4,
+        "probability": 0.005092917041622936
+      }
+    ]
+  },
+  {
+    "index": 6,
+    "title": "",
+    "url": "https://vnexpress.net/gia-cuoc-van-tai-bien-co-the-tang-50-80-5056994.html",
+    "site": "vnexpress",
+    "predicted_label": 3,
+    "confidence": 0.9241400244006783,
+    "top_3_classes": [
+      {
+        "class": 3,
+        "probability": 0.9241400244006783
+      },
+      {
+        "class": 6,
+        "probability": 0.06337097378440902
+      },
+      {
+        "class": 4,
+        "probability": 0.005887114376843874
+      }
+    ]
+  },
+  {
+    "index": 9,
+    "title": "",
+    "url": "https://vnexpress.net/chinh-sach-noi-bat-co-hieu-luc-tu-thang-4-5056267.html",
+    "site": "vnexpress",
+    "predicted_label": 3,
+    "confidence": 0.4554759070307693,
+    "top_3_classes": [
+      {
+        "class": 3,
+        "probability": 0.4554759070307693
+      },
+      {
+        "class": 0,
+        "probability": 0.39607511821176195
+      },
+      {
+        "class": 6,
+        "probability": 0.14596573033755608
+      }
+    ]
+  },
+  {
+    "index": 16,
+    "title": "",
+    "url": "https://vnexpress.net/vingroup-de-xuat-mo-rong-duong-rung-sac-tu-6-len-10-lan-xe-5056772.html",
+    "site": "vnexpress",
+    "predicted_label": 3,
+    "confidence": 0.504941514700089,
+    "top_3_classes": [
+      {
+        "class": 3,
+        "probability": 0.504941514700089
+      },
+      {
+        "class": 6,
+        "probability": 0.4923154094791764
+      },
+      {
+        "class": 5,
+        "probability": 0.0012538018083858024
+      }
+    ]
+  },
+  {
+    "index": 22,
+    "title": "",
+    "url": "https://vnexpress.net/tp-hcm-yeu-cau-han-che-cat-dien-luc-nang-nong-ban-dem-5056549.html",
+    "site": "vnexpress",
+    "predicted_label": 3,
+    "confidence": 0.8715859461912473,
+    "top_3_classes": [
+      {
+        "class": 3,
+        "probability": 0.8715859461912473
+      },
+      {
+        "class": 6,
+        "probability": 0.11102531659436932
+      },
+      {
+        "class": 0,
+        "probability": 0.010805584530300196
+      }
+    ]
+  },
+  {
+    "index": 24,
+    "title": "",
+    "url": "https://vnexpress.net/de-xuat-nang-vanh-dai-3-tp-hcm-len-8-lan-xe-von-65-000-ty-dong-5056548.html",
+    "site": "vnexpress",
+    "predicted_label": 3,
+    "confidence": 0.5049920992406943,
+    "top_3_classes": [
+      {
+        "class": 3,
+        "probability": 0.5049920992406943
+      },
+      {
+        "class": 6,
+        "probability": 0.4910359256713158
+      },
+      {
+        "class": 5,
+        "probability": 0.002331608100902283
+      }
+    ]
+  },
+  {
+    "index": 29,
+    "title": "",
+    "url": "https://vnexpress.net/lap-doan-kiem-tra-gia-cuoc-van-tai-tai-cac-dia-phuong-5056499.html",
+    "site": "vnexpress",
+    "predicted_label": 3,
+    "confidence": 0.6743307240308366,
+    "top_3_classes": [
+      {
+        "class": 3,
+        "probability": 0.6743307240308366
+      },
+      {
+        "class": 6,
+        "probability": 0.3142490261961883
+      },
+      {
+        "class": 1,
+        "probability": 0.005686215071119194
+      }
+    ]
+  },
+  {
+    "index": 30,
+    "title": "",
+    "url": "https://vnexpress.net/an-giang-xay-khu-cong-nghiep-4-800-ty-dong-5056461.html",
+    "site": "vnexpress",
+    "predicted_label": 3,
+    "confidence": 0.5174571836430407,
+    "top_3_classes": [
+      {
+        "class": 3,
+        "probability": 0.5174571836430407
+      },
+      {
+        "class": 6,
+        "probability": 0.47671612208118275
+      },
+      {
+        "class": 2,
+        "probability": 0.0030363563761795246
+      }
+    ]
+  },
+  {
+    "index": 45,
+    "title": "",
+    "url": "https://vnexpress.net/dong-bhxh-thap-va-noi-lo-luong-huu-khong-du-song-5055960.html",
+    "site": "vnexpress",
+    "predicted_label": 3,
+    "confidence": 0.6146632006690899,
+    "top_3_classes": [
+      {
+        "class": 3,
+        "probability": 0.6146632006690899
+      },
+      {
+        "class": 6,
+        "probability": 0.2666893181483183
+      },
+      {
+        "class": 4,
+        "probability": 0.07230826645752901
+      }
+    ]
+  },
+  {
+    "index": 74,
+    "title": "",
+    "url": "https://vnexpress.net/kien-nghi-ho-tro-tau-bien-viet-nam-qua-eo-bien-hormuz-5055696.html",
+    "site": "vnexpress",
+    "predicted_label": 3,
+    "confidence": 0.6851354514993229,
+    "top_3_classes": [
+      {
+        "class": 3,
+        "probability": 0.6851354514993229
+      },
+      {
+        "class": 6,
+        "probability": 0.30832916093418417
+      },
+      {
+        "class": 4,
+        "probability": 0.0031270445272243708
+      }
+    ]
+  },
+  {
+    "index": 95,
+    "title": "",
+    "url": "https://vnexpress.net/khoi-cong-nha-may-dien-lng-hon-18-000-ty-dong-o-tp-hcm-5055277.html",
+    "site": "vnexpress",
+    "predicted_label": 3,
+    "confidence": 0.7229053847644209,
+    "top_3_classes": [
+      {
+        "class": 3,
+        "probability": 0.7229053847644209
+      },
+      {
+        "class": 6,
+        "probability": 0.2728824320997831
+      },
+      {
+        "class": 5,
+        "probability": 0.0022012145278396873
+      }
+    ]
+  },
+  {
+    "index": 101,
+    "title": "",
+    "url": "https://vnexpress.net/de-xuat-phu-thu-nhien-lieu-ve-may-bay-noi-dia-co-the-toi-4-68-trieu-dong-5055266.html",
+    "site": "vnexpress",
+    "predicted_label": 3,
+    "confidence": 0.9174427535329197,
+    "top_3_classes": [
+      {
+        "class": 3,
+        "probability": 0.9174427535329197
+      },
+      {
+        "class": 6,
+        "probability": 0.0409706730470289
+      },
+      {
+        "class": 0,
+        "probability": 0.03650859056164959
+      }
+    ]
+  },
+  {
+    "index": 103,
+    "title": "",
+    "url": "https://vnexpress.net/van-tai-duong-thuy-lao-dao-vi-gia-dau-tang-gap-doi-5054929.html",
+    "site": "vnexpress",
+    "predicted_label": 3,
+    "confidence": 0.8075152011449234,
+    "top_3_classes": [
+      {
+        "class": 3,
+        "probability": 0.8075152011449234
+      },
+      {
+        "class": 6,
+        "probability": 0.18780583723554947
+      },
+      {
+        "class": 4,
+        "probability": 0.0022865146390151003
+      }
+    ]
+  },
+  {
+    "index": 113,
+    "title": "",
+    "url": "https://vnexpress.net/lo-ngai-tam-ly-cu-dong-bhxh-thap-roi-duoc-bu-khi-luong-huu-tang-4-5-5054420.html",
+    "site": "vnexpress",
+    "predicted_label": 3,
+    "confidence": 0.5533089507469289,
+    "top_3_classes": [
+      {
+        "class": 3,
+        "probability": 0.5533089507469289
+      },
+      {
+        "class": 6,
+        "probability": 0.20577193870062582
+      },
+      {
+        "class": 4,
+        "probability": 0.19038260536165105
+      }
+    ]
+  },
+  {
+    "index": 116,
+    "title": "",
+    "url": "https://vnexpress.net/doanh-nghiep-fdi-manh-tay-chi-thuong-hut-cong-nhan-5054747.html",
+    "site": "vnexpress",
+    "predicted_label": 3,
+    "confidence": 0.8671950687349155,
+    "top_3_classes": [
+      {
+        "class": 3,
+        "probability": 0.8671950687349155
+      },
+      {
+        "class": 6,
+        "probability": 0.08070103073773281
+      },
+      {
+        "class": 1,
+        "probability": 0.034495859037874305
+      }
+    ]
+  },
+  {
+    "index": 137,
+    "title": "",
+    "url": "https://vnexpress.net/nha-ga-vip-san-bay-phu-quoc-hoan-thanh-phan-tho-5054195.html",
+    "site": "vnexpress",
+    "predicted_label": 3,
+    "confidence": 0.581330574872273,
+    "top_3_classes": [
+      {
+        "class": 3,
+        "probability": 0.581330574872273
+      },
+      {
+        "class": 6,
+        "probability": 0.41067695754940425
+      },
+      {
+        "class": 0,
+        "probability": 0.003341148589903317
+      }
+    ]
+  },
+  {
+    "index": 140,
+    "title": "",
+    "url": "https://vnexpress.net/viet-nam-moi-bu-dap-duoc-khoang-30-thiet-hai-do-thien-tai-5054546.html",
+    "site": "vnexpress",
+    "predicted_label": 3,
+    "confidence": 0.6554044290735389,
+    "top_3_classes": [
+      {
+        "class": 3,
+        "probability": 0.6554044290735389
+      },
+      {
+        "class": 0,
+        "probability": 0.18240589887338907
+      },
+      {
+        "class": 6,
+        "probability": 0.13497783134976085
+      }
+    ]
+  },
+  {
+    "index": 141,
+    "title": "",
+    "url": "https://vnexpress.net/khach-di-tau-dien-ben-thanh-suoi-tien-tang-dot-bien-5054210.html",
+    "site": "vnexpress",
+    "predicted_label": 3,
+    "confidence": 0.5706778595133024,
+    "top_3_classes": [
+      {
+        "class": 3,
+        "probability": 0.5706778595133024
+      },
+      {
+        "class": 6,
+        "probability": 0.42289012072128485
+      },
+      {
+        "class": 4,
+        "probability": 0.003102162566975898
+      }
+    ]
+  },
+  {
+    "index": 143,
+    "title": "",
+    "url": "https://vnexpress.net/hang-khong-cat-giam-chuyen-bay-noi-dia-do-thieu-nhien-lieu-5054018.html",
+    "site": "vnexpress",
+    "predicted_label": 3,
+    "confidence": 0.8286780967063887,
+    "top_3_classes": [
+      {
+        "class": 3,
+        "probability": 0.8286780967063887
+      },
+      {
+        "class": 6,
+        "probability": 0.1604238997071555
+      },
+      {
+        "class": 0,
+        "probability": 0.005003791372180079
+      }
+    ]
+  },
+  {
+    "index": 147,
+    "title": "",
+    "url": "https://vnexpress.net/can-tho-co-them-hai-he-thong-xu-ly-nuoc-nhiem-man-5054319.html",
+    "site": "vnexpress",
+    "predicted_label": 3,
+    "confidence": 0.6246058975268552,
+    "top_3_classes": [
+      {
+        "class": 3,
+        "probability": 0.6246058975268552
+      },
+      {
+        "class": 6,
+        "probability": 0.34859967679700393
+      },
+      {
+        "class": 0,
+        "probability": 0.009514902961931568
+      }
+    ]
+  },
+  {
+    "index": 156,
+    "title": "",
+    "url": "https://vnexpress.net/ba-tau-bien-muon-doi-sang-quoc-tich-viet-nam-5053871.html",
+    "site": "vnexpress",
+    "predicted_label": 3,
+    "confidence": 0.5497567912342033,
+    "top_3_classes": [
+      {
+        "class": 3,
+        "probability": 0.5497567912342033
+      },
+      {
+        "class": 6,
+        "probability": 0.43941323128159715
+      },
+      {
+        "class": 5,
+        "probability": 0.005455802283566297
+      }
+    ]
+  },
+  {
+    "index": 25,
+    "title": "",
+    "url": "https://vnexpress.net/tiep-suc-171-benh-nhi-mac-benh-hiem-ngheo-5056556.html",
+    "site": "vnexpress",
+    "predicted_label": 4,
+    "confidence": 0.8298002212752247,
+    "top_3_classes": [
+      {
+        "class": 4,
+        "probability": 0.8298002212752247
+      },
+      {
+        "class": 6,
+        "probability": 0.07513605174094645
+      },
+      {
+        "class": 3,
+        "probability": 0.054278478960771134
+      }
+    ]
+  },
+  {
+    "index": 40,
+    "title": "",
+    "url": "https://vnexpress.net/chuyen-roi-ban-cuu-con-cua-nguoi-cha-ngheo-5056083.html",
+    "site": "vnexpress",
+    "predicted_label": 4,
+    "confidence": 0.8096784042355823,
+    "top_3_classes": [
+      {
+        "class": 4,
+        "probability": 0.8096784042355823
+      },
+      {
+        "class": 6,
+        "probability": 0.14985408641405623
+      },
+      {
+        "class": 2,
+        "probability": 0.03012373865538496
+      }
+    ]
+  },
+  {
+    "index": 43,
+    "title": "",
+    "url": "https://vnexpress.net/5-ty-dong-tiep-suc-cho-benh-nhi-ung-thu-ghep-tang-5056558.html",
+    "site": "vnexpress",
+    "predicted_label": 4,
+    "confidence": 0.8283076359180743,
+    "top_3_classes": [
+      {
+        "class": 4,
+        "probability": 0.8283076359180743
+      },
+      {
+        "class": 6,
+        "probability": 0.11490198618462588
+      },
+      {
+        "class": 3,
+        "probability": 0.043396862468998584
+      }
+    ]
+  },
+  {
+    "index": 298,
+    "title": "",
+    "url": "https://vnexpress.net/nguoi-me-kiet-suc-5050304.html",
+    "site": "vnexpress",
+    "predicted_label": 4,
+    "confidence": 0.6514224583782279,
+    "top_3_classes": [
+      {
+        "class": 4,
+        "probability": 0.6514224583782279
+      },
+      {
+        "class": 3,
+        "probability": 0.11915464188606506
+      },
+      {
+        "class": 5,
+        "probability": 0.07798195672561781
+      }
+    ]
+  },
+  {
+    "index": 396,
+    "title": "",
+    "url": "https://vnexpress.net/loat-san-pham-ziaja-danh-rieng-cho-thi-truong-viet-nam-5055638.html",
+    "site": "vnexpress",
+    "predicted_label": 4,
+    "confidence": 0.7248498793338829,
+    "top_3_classes": [
+      {
+        "class": 4,
+        "probability": 0.7248498793338829
+      },
+      {
+        "class": 3,
+        "probability": 0.24591904861355554
+      },
+      {
+        "class": 6,
+        "probability": 0.01680422889179351
+      }
+    ]
+  },
+  {
+    "index": 900,
+    "title": "",
+    "url": "https://vnexpress.net/nu-hiep-si-sang-che-chia-se-cach-thuong-mai-hoa-ket-qua-nghien-cuu-5047593.html",
+    "site": "vnexpress",
+    "predicted_label": 4,
+    "confidence": 0.43299237870338353,
+    "top_3_classes": [
+      {
+        "class": 4,
+        "probability": 0.43299237870338353
+      },
+      {
+        "class": 0,
+        "probability": 0.3341928202671435
+      },
+      {
+        "class": 3,
+        "probability": 0.12216056910424418
+      }
+    ]
+  },
+  {
+    "index": 944,
+    "title": "",
+    "url": "https://vnexpress.net/gia-dinh-nguoi-co-te-bao-bat-tu-dat-thoa-thuan-voi-cong-ty-duoc-5046289.html",
+    "site": "vnexpress",
+    "predicted_label": 4,
+    "confidence": 0.912666231377998,
+    "top_3_classes": [
+      {
+        "class": 4,
+        "probability": 0.912666231377998
+      },
+      {
+        "class": 0,
+        "probability": 0.04753442939936815
+      },
+      {
+        "class": 6,
+        "probability": 0.014517186762571781
+      }
+    ]
+  },
+  {
+    "index": 1079,
+    "title": "",
+    "url": "https://vnexpress.net/suyt-hong-than-vi-thuoc-tan-soi-cap-toc-mua-tren-mang-5058077.html",
+    "site": "vnexpress",
+    "predicted_label": 4,
+    "confidence": 0.9508932420067897,
+    "top_3_classes": [
+      {
+        "class": 4,
+        "probability": 0.9508932420067897
+      },
+      {
+        "class": 6,
+        "probability": 0.043871699015629075
+      },
+      {
+        "class": 5,
+        "probability": 0.001993970410705392
+      }
+    ]
+  },
+  {
+    "index": 1080,
+    "title": "",
+    "url": "https://vnexpress.net/be-8-tuoi-duoc-noi-mach-mau-nao-ngan-dot-quy-tai-phat-5058248.html",
+    "site": "vnexpress",
+    "predicted_label": 4,
+    "confidence": 0.9455696437350161,
+    "top_3_classes": [
+      {
+        "class": 4,
+        "probability": 0.9455696437350161
+      },
+      {
+        "class": 6,
+        "probability": 0.046349262851565196
+      },
+      {
+        "class": 5,
+        "probability": 0.005294773621963556
+      }
+    ]
+  },
+  {
+    "index": 1081,
+    "title": "",
+    "url": "https://vnexpress.net/gioi-tre-trung-quoc-chuong-mot-di-bar-bat-mach-boc-thuoc-5057901.html",
+    "site": "vnexpress",
+    "predicted_label": 4,
+    "confidence": 0.9386677463151214,
+    "top_3_classes": [
+      {
+        "class": 4,
+        "probability": 0.9386677463151214
+      },
+      {
+        "class": 2,
+        "probability": 0.027852981568605672
+      },
+      {
+        "class": 6,
+        "probability": 0.0176851601913248
+      }
+    ]
+  },
+  {
+    "index": 1082,
+    "title": "",
+    "url": "https://vnexpress.net/xac-ong-ket-24-gio-trong-mat-nguoi-phu-nu-5057608.html",
+    "site": "vnexpress",
+    "predicted_label": 4,
+    "confidence": 0.893961085125001,
+    "top_3_classes": [
+      {
+        "class": 4,
+        "probability": 0.893961085125001
+      },
+      {
+        "class": 6,
+        "probability": 0.10125530849184732
+      },
+      {
+        "class": 5,
+        "probability": 0.0015394744241515432
+      }
+    ]
+  },
+  {
+    "index": 1083,
+    "title": "",
+    "url": "https://vnexpress.net/co-gai-24-tuoi-ung-thu-gan-5057282.html",
+    "site": "vnexpress",
+    "predicted_label": 4,
+    "confidence": 0.9027959291226975,
+    "top_3_classes": [
+      {
+        "class": 4,
+        "probability": 0.9027959291226975
+      },
+      {
+        "class": 6,
+        "probability": 0.09305360185385349
+      },
+      {
+        "class": 5,
+        "probability": 0.002402694033491535
+      }
+    ]
+  },
+  {
+    "index": 1084,
+    "title": "",
+    "url": "https://vnexpress.net/thit-lon-benh-co-an-toan-khi-nau-chin-5057730.html",
+    "site": "vnexpress",
+    "predicted_label": 4,
+    "confidence": 0.9257114339548433,
+    "top_3_classes": [
+      {
+        "class": 4,
+        "probability": 0.9257114339548433
+      },
+      {
+        "class": 6,
+        "probability": 0.05272926449483649
+      },
+      {
+        "class": 1,
+        "probability": 0.013375210584205197
+      }
+    ]
+  },
+  {
+    "index": 1085,
+    "title": "",
+    "url": "https://vnexpress.net/gan-ba-thang-nuoi-song-cap-sinh-non-27-tuan-5057786.html",
+    "site": "vnexpress",
+    "predicted_label": 4,
+    "confidence": 0.9335007568752249,
+    "top_3_classes": [
+      {
+        "class": 4,
+        "probability": 0.9335007568752249
+      },
+      {
+        "class": 6,
+        "probability": 0.060215637415125235
+      },
+      {
+        "class": 5,
+        "probability": 0.002197146091891005
+      }
+    ]
+  },
+  {
+    "index": 1086,
+    "title": "",
+    "url": "https://vnexpress.net/bac-si-tp-hcm-se-mang-tui-y-te-thong-minh-den-tan-nha-kham-benh-5057710.html",
+    "site": "vnexpress",
+    "predicted_label": 4,
+    "confidence": 0.578511929896214,
+    "top_3_classes": [
+      {
+        "class": 4,
+        "probability": 0.578511929896214
+      },
+      {
+        "class": 6,
+        "probability": 0.4174779300855621
+      },
+      {
+        "class": 3,
+        "probability": 0.0017727106848790728
+      }
+    ]
+  },
+  {
+    "index": 1087,
+    "title": "",
+    "url": "https://vnexpress.net/nu-dien-vien-thai-lan-co-hai-tu-cung-mot-qua-than-5057851.html",
+    "site": "vnexpress",
+    "predicted_label": 4,
+    "confidence": 0.825350717631725,
+    "top_3_classes": [
+      {
+        "class": 4,
+        "probability": 0.825350717631725
+      },
+      {
+        "class": 2,
+        "probability": 0.15709025511751426
+      },
+      {
+        "class": 5,
+        "probability": 0.0115997932578759
+      }
+    ]
+  },
+  {
+    "index": 1088,
+    "title": "",
+    "url": "https://vnexpress.net/bac-si-tiet-lo-nguyen-tac-an-giup-ha-mo-mau-tu-nhien-sau-3-thang-5058117.html",
+    "site": "vnexpress",
+    "predicted_label": 4,
+    "confidence": 0.9769073667440902,
+    "top_3_classes": [
+      {
+        "class": 4,
+        "probability": 0.9769073667440902
+      },
+      {
+        "class": 3,
+        "probability": 0.011504648196310186
+      },
+      {
+        "class": 6,
+        "probability": 0.00670587027687843
+      }
+    ]
+  },
+  {
+    "index": 1089,
+    "title": "",
+    "url": "https://vnexpress.net/3-loai-do-uong-quen-thuoc-giup-phuc-hoi-la-gan-nhiem-mo-5056847.html",
+    "site": "vnexpress",
+    "predicted_label": 4,
+    "confidence": 0.9807519649815258,
+    "top_3_classes": [
+      {
+        "class": 4,
+        "probability": 0.9807519649815258
+      },
+      {
+        "class": 3,
+        "probability": 0.009136598031609582
+      },
+      {
+        "class": 6,
+        "probability": 0.006054630181739666
+      }
+    ]
+  },
+  {
+    "index": 1090,
+    "title": "",
+    "url": "https://vnexpress.net/su-song-mong-manh-sau-cua-ghep-te-bao-goc-5054677.html",
+    "site": "vnexpress",
+    "predicted_label": 4,
+    "confidence": 0.9665686012607718,
+    "top_3_classes": [
+      {
+        "class": 4,
+        "probability": 0.9665686012607718
+      },
+      {
+        "class": 6,
+        "probability": 0.013149744645789616
+      },
+      {
+        "class": 2,
+        "probability": 0.011664613692723027
+      }
+    ]
+  },
+  {
+    "index": 1091,
+    "title": "",
+    "url": "https://vnexpress.net/cuoc-chien-ung-thu-o-tuoi-22-5056995.html",
+    "site": "vnexpress",
+    "predicted_label": 4,
+    "confidence": 0.9491451822793436,
+    "top_3_classes": [
+      {
+        "class": 4,
+        "probability": 0.9491451822793436
+      },
+      {
+        "class": 6,
+        "probability": 0.029776888281828017
+      },
+      {
+        "class": 5,
+        "probability": 0.01251085506990364
+      }
+    ]
+  },
+  {
+    "index": 39,
+    "title": "",
+    "url": "https://vnexpress.net/gia-han-dang-ky-giai-chay-vi-tre-mac-benh-hiem-den-30-6-5056552.html",
+    "site": "vnexpress",
+    "predicted_label": 5,
+    "confidence": 0.6392042384494353,
+    "top_3_classes": [
+      {
+        "class": 5,
+        "probability": 0.6392042384494353
+      },
+      {
+        "class": 6,
+        "probability": 0.1472074328219318
+      },
+      {
+        "class": 4,
+        "probability": 0.13371002674865803
+      }
+    ]
+  },
+  {
+    "index": 333,
+    "title": "",
+    "url": "https://vnexpress.net/chay-bo-nhan-qua-cung-vrace-va-quy-hy-vong-5049662.html",
+    "site": "vnexpress",
+    "predicted_label": 5,
+    "confidence": 0.6020387819900197,
+    "top_3_classes": [
+      {
+        "class": 5,
+        "probability": 0.6020387819900197
+      },
+      {
+        "class": 4,
+        "probability": 0.17580566972155406
+      },
+      {
+        "class": 3,
+        "probability": 0.13154210953844628
+      }
+    ]
+  },
+  {
+    "index": 736,
+    "title": "",
+    "url": "https://vnexpress.net/viet-nam-quan-ly-ai-the-nao-theo-luat-moi-5054752.html",
+    "site": "vnexpress",
+    "predicted_label": 5,
+    "confidence": 0.24090511045154156,
+    "top_3_classes": [
+      {
+        "class": 5,
+        "probability": 0.24090511045154156
+      },
+      {
+        "class": 6,
+        "probability": 0.23099052824168162
+      },
+      {
+        "class": 2,
+        "probability": 0.18684143204234388
+      }
+    ]
+  },
+  {
+    "index": 1552,
+    "title": "",
+    "url": "https://vnexpress.net/toto-wolff-ty-phu-phong-do-cua-lang-dua-f1-5045823.html",
+    "site": "vnexpress",
+    "predicted_label": 5,
+    "confidence": 0.5803322132204756,
+    "top_3_classes": [
+      {
+        "class": 5,
+        "probability": 0.5803322132204756
+      },
+      {
+        "class": 2,
+        "probability": 0.3764816878747204
+      },
+      {
+        "class": 3,
+        "probability": 0.031220474313628434
+      }
+    ]
+  },
+  {
+    "index": 1621,
+    "title": "",
+    "url": "https://vnexpress.net/gu-mac-sanh-doi-cua-tan-thu-tuong-ha-lan-va-ban-doi-5043837.html",
+    "site": "vnexpress",
+    "predicted_label": 5,
+    "confidence": 0.5119370770734566,
+    "top_3_classes": [
+      {
+        "class": 5,
+        "probability": 0.5119370770734566
+      },
+      {
+        "class": 2,
+        "probability": 0.44979218275414456
+      },
+      {
+        "class": 6,
+        "probability": 0.0313058098323834
+      }
+    ]
+  },
+  {
+    "index": 1651,
+    "title": "",
+    "url": "https://vnexpress.net/ronaldinho-dan-than-vao-am-nhac-5057462.html",
+    "site": "vnexpress",
+    "predicted_label": 5,
+    "confidence": 0.7553498155738113,
+    "top_3_classes": [
+      {
+        "class": 5,
+        "probability": 0.7553498155738113
+      },
+      {
+        "class": 2,
+        "probability": 0.21871259155469974
+      },
+      {
+        "class": 3,
+        "probability": 0.017646107359277255
+      }
+    ]
+  },
+  {
+    "index": 1652,
+    "title": "",
+    "url": "https://vnexpress.net/sindarov-ha-caruana-doc-chiem-dinh-bang-candidates-2026-5057473.html",
+    "site": "vnexpress",
+    "predicted_label": 5,
+    "confidence": 0.9591600992971037,
+    "top_3_classes": [
+      {
+        "class": 5,
+        "probability": 0.9591600992971037
+      },
+      {
+        "class": 6,
+        "probability": 0.019652509361404905
+      },
+      {
+        "class": 0,
+        "probability": 0.0065368599786728935
+      }
+    ]
+  },
+  {
+    "index": 1653,
+    "title": "",
+    "url": "https://vnexpress.net/sieu-pham-cua-van-hau-dep-nhat-v-league-thang-3-5057341.html",
+    "site": "vnexpress",
+    "predicted_label": 5,
+    "confidence": 0.9596250172141275,
+    "top_3_classes": [
+      {
+        "class": 5,
+        "probability": 0.9596250172141275
+      },
+      {
+        "class": 6,
+        "probability": 0.03422904532260656
+      },
+      {
+        "class": 1,
+        "probability": 0.0032047693724415994
+      }
+    ]
+  },
+  {
+    "index": 1654,
+    "title": "",
+    "url": "https://vnexpress.net/hlv-doi-tuyen-malaysia-bi-de-nghi-tu-chuc-5057323.html",
+    "site": "vnexpress",
+    "predicted_label": 5,
+    "confidence": 0.9804844886172285,
+    "top_3_classes": [
+      {
+        "class": 5,
+        "probability": 0.9804844886172285
+      },
+      {
+        "class": 3,
+        "probability": 0.00571452608224368
+      },
+      {
+        "class": 1,
+        "probability": 0.004865229556162998
+      }
+    ]
+  },
+  {
+    "index": 1655,
+    "title": "",
+    "url": "https://vnexpress.net/ban-nha-di-xem-world-cup-5057309.html",
+    "site": "vnexpress",
+    "predicted_label": 5,
+    "confidence": 0.9708175555150401,
+    "top_3_classes": [
+      {
+        "class": 5,
+        "probability": 0.9708175555150401
+      },
+      {
+        "class": 3,
+        "probability": 0.01589026762421402
+      },
+      {
+        "class": 6,
+        "probability": 0.004667941288303249
+      }
+    ]
+  },
+  {
+    "index": 1656,
+    "title": "",
+    "url": "https://vnexpress.net/cdv-nhat-ban-duoc-san-wembley-ton-vinh-hanh-dong-nhat-rac-5057411.html",
+    "site": "vnexpress",
+    "predicted_label": 5,
+    "confidence": 0.8593322337008372,
+    "top_3_classes": [
+      {
+        "class": 5,
+        "probability": 0.8593322337008372
+      },
+      {
+        "class": 2,
+        "probability": 0.0863761146571778
+      },
+      {
+        "class": 6,
+        "probability": 0.02589138530737034
+      }
+    ]
+  },
+  {
+    "index": 1657,
+    "title": "",
+    "url": "https://vnexpress.net/xac-dinh-du-48-doi-du-world-cup-2026-5057148.html",
+    "site": "vnexpress",
+    "predicted_label": 5,
+    "confidence": 0.9807384481239488,
+    "top_3_classes": [
+      {
+        "class": 5,
+        "probability": 0.9807384481239488
+      },
+      {
+        "class": 6,
+        "probability": 0.007475630738864531
+      },
+      {
+        "class": 2,
+        "probability": 0.005548050415253395
+      }
+    ]
+  },
+  {
+    "index": 1658,
+    "title": "",
+    "url": "https://vnexpress.net/bao-italy-khong-du-world-cup-2026-la-ngay-tan-the-thu-ba-5057376.html",
+    "site": "vnexpress",
+    "predicted_label": 5,
+    "confidence": 0.9872370118242537,
+    "top_3_classes": [
+      {
+        "class": 5,
+        "probability": 0.9872370118242537
+      },
+      {
+        "class": 6,
+        "probability": 0.004376094912432803
+      },
+      {
+        "class": 3,
+        "probability": 0.003317154926462368
+      }
+    ]
+  },
+  {
+    "index": 1659,
+    "title": "",
+    "url": "https://vnexpress.net/tiger-woods-va-vanessa-trump-bat-hoa-5056886.html",
+    "site": "vnexpress",
+    "predicted_label": 5,
+    "confidence": 0.5618448377246443,
+    "top_3_classes": [
+      {
+        "class": 5,
+        "probability": 0.5618448377246443
+      },
+      {
+        "class": 2,
+        "probability": 0.21300797783934705
+      },
+      {
+        "class": 4,
+        "probability": 0.1613543869602098
+      }
+    ]
+  },
+  {
+    "index": 1660,
+    "title": "",
+    "url": "https://vnexpress.net/agbonlahor-doi-dinh-chi-thi-dau-11-cau-thu-arsenal-rut-khoi-doi-tuyen-5056928.html",
+    "site": "vnexpress",
+    "predicted_label": 5,
+    "confidence": 0.9833962284714337,
+    "top_3_classes": [
+      {
+        "class": 5,
+        "probability": 0.9833962284714337
+      },
+      {
+        "class": 4,
+        "probability": 0.005633991189787526
+      },
+      {
+        "class": 1,
+        "probability": 0.0035450147199867473
+      }
+    ]
+  },
+  {
+    "index": 1661,
+    "title": "",
+    "url": "https://vnexpress.net/triathlete-my-bi-truat-quyen-thi-dau-tai-ironman-70-3-vi-bo-qua-an-phat-5056923.html",
+    "site": "vnexpress",
+    "predicted_label": 5,
+    "confidence": 0.9345887261201232,
+    "top_3_classes": [
+      {
+        "class": 5,
+        "probability": 0.9345887261201232
+      },
+      {
+        "class": 6,
+        "probability": 0.04124199040043204
+      },
+      {
+        "class": 2,
+        "probability": 0.010282893314691241
+      }
+    ]
+  },
+  {
+    "index": 1662,
+    "title": "",
+    "url": "https://vnexpress.net/khoi-tranh-vong-chung-ket-u15-quoc-gia-2026-5058124.html",
+    "site": "vnexpress",
+    "predicted_label": 5,
+    "confidence": 0.7135226811620975,
+    "top_3_classes": [
+      {
+        "class": 5,
+        "probability": 0.7135226811620975
+      },
+      {
+        "class": 6,
+        "probability": 0.257383532887397
+      },
+      {
+        "class": 3,
+        "probability": 0.024968210050240882
+      }
+    ]
+  },
+  {
+    "index": 1663,
+    "title": "",
+    "url": "https://vnexpress.net/caruana-sindarov-but-pha-o-candidates-2026-5057108.html",
+    "site": "vnexpress",
+    "predicted_label": 5,
+    "confidence": 0.9620379500840401,
+    "top_3_classes": [
+      {
+        "class": 5,
+        "probability": 0.9620379500840401
+      },
+      {
+        "class": 2,
+        "probability": 0.012176094489751352
+      },
+      {
+        "class": 6,
+        "probability": 0.011732352550987393
+      }
+    ]
+  },
+  {
+    "index": 1664,
+    "title": "",
+    "url": "https://vnexpress.net/de-zerbi-lam-hlv-tottenham-5056936.html",
+    "site": "vnexpress",
+    "predicted_label": 5,
+    "confidence": 0.9827285869649925,
+    "top_3_classes": [
+      {
+        "class": 5,
+        "probability": 0.9827285869649925
+      },
+      {
+        "class": 3,
+        "probability": 0.005135363249091857
+      },
+      {
+        "class": 6,
+        "probability": 0.0037875606491404186
+      }
+    ]
+  },
+  {
+    "index": 1665,
+    "title": "",
+    "url": "https://vnexpress.net/messi-nhuong-phat-den-trong-chien-thang-5-0-cua-argentina-5057127.html",
+    "site": "vnexpress",
+    "predicted_label": 5,
+    "confidence": 0.9882805521944649,
+    "top_3_classes": [
+      {
+        "class": 5,
+        "probability": 0.9882805521944649
+      },
+      {
+        "class": 4,
+        "probability": 0.003808449255344508
+      },
+      {
+        "class": 6,
+        "probability": 0.0034990244946982952
+      }
+    ]
+  },
+  {
+    "index": 0,
+    "title": "",
+    "url": "https://vnexpress.net/cuc-moi-truong-se-siet-chat-kiem-soat-de-chan-can-thiep-he-thong-quan-trac-5057105.html",
+    "site": "vnexpress",
+    "predicted_label": 6,
+    "confidence": 0.7357960094278327,
+    "top_3_classes": [
+      {
+        "class": 6,
+        "probability": 0.7357960094278327
+      },
+      {
+        "class": 3,
+        "probability": 0.21021066122329102
+      },
+      {
+        "class": 0,
+        "probability": 0.044690701428066325
+      }
+    ]
+  },
+  {
+    "index": 1,
+    "title": "",
+    "url": "https://vnexpress.net/lap-doan-kiem-tra-sau-vu-tieu-thu-3-600-con-lon-nhiem-benh-5057150.html",
+    "site": "vnexpress",
+    "predicted_label": 6,
+    "confidence": 0.8242038506881073,
+    "top_3_classes": [
+      {
+        "class": 6,
+        "probability": 0.8242038506881073
+      },
+      {
+        "class": 3,
+        "probability": 0.11718190655643154
+      },
+      {
+        "class": 4,
+        "probability": 0.038272296979389574
+      }
+    ]
+  },
+  {
+    "index": 2,
+    "title": "",
+    "url": "https://vnexpress.net/hue-luan-chuyen-bo-nhiem-loat-can-bo-5057049.html",
+    "site": "vnexpress",
+    "predicted_label": 6,
+    "confidence": 0.961264374058669,
+    "top_3_classes": [
+      {
+        "class": 6,
+        "probability": 0.961264374058669
+      },
+      {
+        "class": 3,
+        "probability": 0.013671636283211663
+      },
+      {
+        "class": 1,
+        "probability": 0.012256359378568237
+      }
+    ]
+  },
+  {
+    "index": 3,
+    "title": "",
+    "url": "https://vnexpress.net/vtv-vov-ttx-va-2-vien-han-lam-la-don-vi-su-nghiep-cua-trung-uong-dang-5057102.html",
+    "site": "vnexpress",
+    "predicted_label": 6,
+    "confidence": 0.9792827657794513,
+    "top_3_classes": [
+      {
+        "class": 6,
+        "probability": 0.9792827657794513
+      },
+      {
+        "class": 3,
+        "probability": 0.006973127882126388
+      },
+      {
+        "class": 1,
+        "probability": 0.005815865171842298
+      }
+    ]
+  },
+  {
+    "index": 4,
+    "title": "",
+    "url": "https://vnexpress.net/chay-xe-giuong-nam-khoi-bao-trum-khach-san-40-tang-o-nha-trang-5057129.html",
+    "site": "vnexpress",
+    "predicted_label": 6,
+    "confidence": 0.9351483942914154,
+    "top_3_classes": [
+      {
+        "class": 6,
+        "probability": 0.9351483942914154
+      },
+      {
+        "class": 3,
+        "probability": 0.03820318924046236
+      },
+      {
+        "class": 2,
+        "probability": 0.016895772746214205
+      }
+    ]
+  },
+  {
+    "index": 5,
+    "title": "",
+    "url": "https://vnexpress.net/tp-hcm-dong-giao-lo-gan-san-bay-tan-son-nhat-de-thi-cong-ga-metro-5057040.html",
+    "site": "vnexpress",
+    "predicted_label": 6,
+    "confidence": 0.5902154078639418,
+    "top_3_classes": [
+      {
+        "class": 6,
+        "probability": 0.5902154078639418
+      },
+      {
+        "class": 3,
+        "probability": 0.40074776569822496
+      },
+      {
+        "class": 5,
+        "probability": 0.0060657757745594615
+      }
+    ]
+  },
+  {
+    "index": 7,
+    "title": "",
+    "url": "https://vnexpress.net/ha-noi-va-cao-bang-lai-xuat-hien-mua-da-5056949.html",
+    "site": "vnexpress",
+    "predicted_label": 6,
+    "confidence": 0.9659294341977622,
+    "top_3_classes": [
+      {
+        "class": 6,
+        "probability": 0.9659294341977622
+      },
+      {
+        "class": 3,
+        "probability": 0.012047153239554017
+      },
+      {
+        "class": 1,
+        "probability": 0.007530718375623574
+      }
+    ]
+  },
+  {
+    "index": 8,
+    "title": "",
+    "url": "https://vnexpress.net/tp-hcm-cai-tao-mot-so-cau-qua-kenh-nhieu-loc-de-giam-un-tac-5056848.html",
+    "site": "vnexpress",
+    "predicted_label": 6,
+    "confidence": 0.7329159581190098,
+    "top_3_classes": [
+      {
+        "class": 6,
+        "probability": 0.7329159581190098
+      },
+      {
+        "class": 3,
+        "probability": 0.2583978179800718
+      },
+      {
+        "class": 5,
+        "probability": 0.003939474049431647
+      }
+    ]
+  },
+  {
+    "index": 10,
+    "title": "",
+    "url": "https://vnexpress.net/xe-container-lat-ba-nguoi-chet-5056895.html",
+    "site": "vnexpress",
+    "predicted_label": 6,
+    "confidence": 0.9619911823837283,
+    "top_3_classes": [
+      {
+        "class": 6,
+        "probability": 0.9619911823837283
+      },
+      {
+        "class": 4,
+        "probability": 0.014227229643799374
+      },
+      {
+        "class": 2,
+        "probability": 0.012275888773292578
+      }
+    ]
+  },
+  {
+    "index": 11,
+    "title": "",
+    "url": "https://vnexpress.net/mo-rong-duong-cua-ngo-vung-tau-len-8-lan-xe-5056879.html",
+    "site": "vnexpress",
+    "predicted_label": 6,
+    "confidence": 0.6410810429721641,
+    "top_3_classes": [
+      {
+        "class": 6,
+        "probability": 0.6410810429721641
+      },
+      {
+        "class": 3,
+        "probability": 0.35291300737607284
+      },
+      {
+        "class": 5,
+        "probability": 0.002251447225909367
+      }
+    ]
+  },
+  {
+    "index": 12,
+    "title": "",
+    "url": "https://vnexpress.net/1-000-ty-dong-xay-dung-bao-tang-ky-uc-chien-tranh-5056874.html",
+    "site": "vnexpress",
+    "predicted_label": 6,
+    "confidence": 0.7674332585632182,
+    "top_3_classes": [
+      {
+        "class": 6,
+        "probability": 0.7674332585632182
+      },
+      {
+        "class": 3,
+        "probability": 0.18468786854778804
+      },
+      {
+        "class": 2,
+        "probability": 0.03720155940743824
+      }
+    ]
+  },
+  {
+    "index": 13,
+    "title": "",
+    "url": "https://vnexpress.net/7-cong-nhan-bat-tinh-o-lo-say-lua-5056885.html",
+    "site": "vnexpress",
+    "predicted_label": 6,
+    "confidence": 0.9070773884553155,
+    "top_3_classes": [
+      {
+        "class": 6,
+        "probability": 0.9070773884553155
+      },
+      {
+        "class": 4,
+        "probability": 0.04224322508846161
+      },
+      {
+        "class": 2,
+        "probability": 0.019443229154321243
+      }
+    ]
+  },
+  {
+    "index": 14,
+    "title": "",
+    "url": "https://vnexpress.net/pha-do-khach-san-dien-luc-ben-ho-guom-5056757.html",
+    "site": "vnexpress",
+    "predicted_label": 6,
+    "confidence": 0.7566572143438469,
+    "top_3_classes": [
+      {
+        "class": 6,
+        "probability": 0.7566572143438469
+      },
+      {
+        "class": 3,
+        "probability": 0.23038270844453726
+      },
+      {
+        "class": 1,
+        "probability": 0.0051471661550052195
+      }
+    ]
+  },
+  {
+    "index": 15,
+    "title": "",
+    "url": "https://vnexpress.net/tong-bi-thu-la-phieu-phai-tiep-noi-bang-hieu-qua-nhiem-ky-5056818.html",
+    "site": "vnexpress",
+    "predicted_label": 6,
+    "confidence": 0.986129689659802,
+    "top_3_classes": [
+      {
+        "class": 6,
+        "probability": 0.986129689659802
+      },
+      {
+        "class": 3,
+        "probability": 0.005079429323117454
+      },
+      {
+        "class": 1,
+        "probability": 0.0036206208975093366
+      }
+    ]
+  },
+  {
+    "index": 17,
+    "title": "",
+    "url": "https://vnexpress.net/nguoi-dan-chat-vat-qua-cau-chuong-duong-5056654.html",
+    "site": "vnexpress",
+    "predicted_label": 6,
+    "confidence": 0.9450343127400374,
+    "top_3_classes": [
+      {
+        "class": 6,
+        "probability": 0.9450343127400374
+      },
+      {
+        "class": 3,
+        "probability": 0.02887335916477149
+      },
+      {
+        "class": 1,
+        "probability": 0.00971716992038938
+      }
+    ]
+  },
+  {
+    "index": 18,
+    "title": "",
+    "url": "https://vnexpress.net/ong-nguyen-khac-toan-tai-dac-cu-chu-tich-tp-hue-5056685.html",
+    "site": "vnexpress",
+    "predicted_label": 6,
+    "confidence": 0.9682958342469007,
+    "top_3_classes": [
+      {
+        "class": 6,
+        "probability": 0.9682958342469007
+      },
+      {
+        "class": 3,
+        "probability": 0.019350135576936506
+      },
+      {
+        "class": 1,
+        "probability": 0.0050000289813473524
+      }
+    ]
+  },
+  {
+    "index": 19,
+    "title": "",
+    "url": "https://vnexpress.net/trinh-chinh-phu-du-thao-tang-luong-co-so-len-2-53-trieu-dong-5056661.html",
+    "site": "vnexpress",
+    "predicted_label": 6,
+    "confidence": 0.8721096020061692,
+    "top_3_classes": [
+      {
+        "class": 6,
+        "probability": 0.8721096020061692
+      },
+      {
+        "class": 3,
+        "probability": 0.10576671597519616
+      },
+      {
+        "class": 4,
+        "probability": 0.013695685034619442
+      }
+    ]
+  },
+  {
+    "index": 20,
+    "title": "",
+    "url": "https://vnexpress.net/chay-xuong-banh-keo-700-m2-o-ha-noi-5056668.html",
+    "site": "vnexpress",
+    "predicted_label": 6,
+    "confidence": 0.9627220927098724,
+    "top_3_classes": [
+      {
+        "class": 6,
+        "probability": 0.9627220927098724
+      },
+      {
+        "class": 1,
+        "probability": 0.014335765965597505
+      },
+      {
+        "class": 3,
+        "probability": 0.007409697347126877
+      }
+    ]
+  },
+  {
+    "index": 21,
+    "title": "",
+    "url": "https://vnexpress.net/tp-hcm-se-lap-3-000-tu-doi-pin-xe-may-dien-trong-thang-4-5056531.html",
+    "site": "vnexpress",
+    "predicted_label": 6,
+    "confidence": 0.5344683327504605,
+    "top_3_classes": [
+      {
+        "class": 6,
+        "probability": 0.5344683327504605
+      },
+      {
+        "class": 3,
+        "probability": 0.4540879259660868
+      },
+      {
+        "class": 0,
+        "probability": 0.008449038723627319
+      }
+    ]
+  },
+  {
+    "index": 23,
+    "title": "",
+    "url": "https://vnexpress.net/tong-bi-thu-goi-y-ha-noi-xay-dung-diem-phuong-xa-xa-hoi-chu-nghia-5056580.html",
+    "site": "vnexpress",
+    "predicted_label": 6,
+    "confidence": 0.9924264722420478,
+    "top_3_classes": [
+      {
+        "class": 6,
+        "probability": 0.9924264722420478
+      },
+      {
+        "class": 3,
+        "probability": 0.003319556758397819
+      },
+      {
+        "class": 1,
+        "probability": 0.0018541494453463193
+      }
+    ]
+  }
+]

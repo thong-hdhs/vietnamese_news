@@ -1,0 +1,151 @@
+{
+  "best": {
+    "tfidf_max_features": 3000,
+    "svd_n_components": 300,
+    "macro_f1": 0.9361176243548004,
+    "explained_variance_sum": 0.5680895992520588,
+    "elapsed_sec": 5.04
+  },
+  "results": [
+    {
+      "tfidf_max_features": 3000,
+      "svd_n_components": 300,
+      "macro_f1": 0.9361176243548004,
+      "explained_variance_sum": 0.5680895992520588,
+      "elapsed_sec": 5.04
+    },
+    {
+      "tfidf_max_features": 8000,
+      "svd_n_components": 500,
+      "macro_f1": 0.9360920293054757,
+      "explained_variance_sum": 0.5943253253376424,
+      "elapsed_sec": 7.56
+    },
+    {
+      "tfidf_max_features": 3000,
+      "svd_n_components": 400,
+      "macro_f1": 0.9341725099739203,
+      "explained_variance_sum": 0.6382069241463733,
+      "elapsed_sec": 5.86
+    },
+    {
+      "tfidf_max_features": 8000,
+      "svd_n_components": 300,
+      "macro_f1": 0.9339571486822228,
+      "explained_variance_sum": 0.47472764702408626,
+      "elapsed_sec": 6.63
+    },
+    {
+      "tfidf_max_features": 8000,
+      "svd_n_components": 400,
+      "macro_f1": 0.9339124332773127,
+      "explained_variance_sum": 0.5390884161593381,
+      "elapsed_sec": 6.4
+    },
+    {
+      "tfidf_max_features": 12000,
+      "svd_n_components": 500,
+      "macro_f1": 0.9338260948397779,
+      "explained_variance_sum": 0.5595159053028101,
+      "elapsed_sec": 14.64
+    },
+    {
+      "tfidf_max_features": 12000,
+      "svd_n_components": 400,
+      "macro_f1": 0.9338260948397779,
+      "explained_variance_sum": 0.5054060922933052,
+      "elapsed_sec": 11.07
+    },
+    {
+      "tfidf_max_features": 3000,
+      "svd_n_components": 500,
+      "macro_f1": 0.9320255291113883,
+      "explained_variance_sum": 0.6964489074270812,
+      "elapsed_sec": 6.63
+    },
+    {
+      "tfidf_max_features": 5000,
+      "svd_n_components": 500,
+      "macro_f1": 0.9320255291113883,
+      "explained_variance_sum": 0.6405404642467959,
+      "elapsed_sec": 8.04
+    },
+    {
+      "tfidf_max_features": 5000,
+      "svd_n_components": 400,
+      "macro_f1": 0.9319182723357581,
+      "explained_variance_sum": 0.5840103804119148,
+      "elapsed_sec": 7.18
+    },
+    {
+      "tfidf_max_features": 8000,
+      "svd_n_components": 100,
+      "macro_f1": 0.9319160126804137,
+      "explained_variance_sum": 0.2918919157720392,
+      "elapsed_sec": 3.66
+    },
+    {
+      "tfidf_max_features": 12000,
+      "svd_n_components": 100,
+      "macro_f1": 0.9316862836683969,
+      "explained_variance_sum": 0.26825523077708974,
+      "elapsed_sec": 4.27
+    },
+    {
+      "tfidf_max_features": 12000,
+      "svd_n_components": 300,
+      "macro_f1": 0.9316807407030107,
+      "explained_variance_sum": 0.4429663099847587,
+      "elapsed_sec": 6.85
+    },
+    {
+      "tfidf_max_features": 5000,
+      "svd_n_components": 300,
+      "macro_f1": 0.9298931195362306,
+      "explained_variance_sum": 0.5171909767152292,
+      "elapsed_sec": 6.08
+    },
+    {
+      "tfidf_max_features": 3000,
+      "svd_n_components": 200,
+      "macro_f1": 0.9298445040295998,
+      "explained_variance_sum": 0.4807223157947884,
+      "elapsed_sec": 4.18
+    },
+    {
+      "tfidf_max_features": 3000,
+      "svd_n_components": 100,
+      "macro_f1": 0.929771291473226,
+      "explained_variance_sum": 0.361430954749688,
+      "elapsed_sec": 3.49
+    },
+    {
+      "tfidf_max_features": 5000,
+      "svd_n_components": 100,
+      "macro_f1": 0.929771291473226,
+      "explained_variance_sum": 0.32376834613596234,
+      "elapsed_sec": 3.8
+    },
+    {
+      "tfidf_max_features": 5000,
+      "svd_n_components": 200,
+      "macro_f1": 0.9295506129906388,
+      "explained_variance_sum": 0.435083377782004,
+      "elapsed_sec": 4.87
+    },
+    {
+      "tfidf_max_features": 12000,
+      "svd_n_components": 200,
+      "macro_f1": 0.9292664156869413,
+      "explained_variance_sum": 0.36795223944137767,
+      "elapsed_sec": 5.72
+    },
+    {
+      "tfidf_max_features": 8000,
+      "svd_n_components": 200,
+      "macro_f1": 0.9273288393623113,
+      "explained_variance_sum": 0.39665443076913964,
+      "elapsed_sec": 4.63
+    }
+  ]
+}
