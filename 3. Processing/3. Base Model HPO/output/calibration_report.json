@@ -1,0 +1,36 @@
+{
+  "timestamp": "2026-04-23T12:33:42.050446",
+  "execution_time_seconds": 189.24495887756348,
+  "grid_search_time_seconds": 158.67794060707092,
+  "training_time_seconds": 30.474337816238403,
+  "best_params": {
+    "C": 10,
+    "l1_ratio": 0.5,
+    "max_iter": 1000,
+    "random_state": 42,
+    "solver": "saga"
+  },
+  "best_cv_f1_macro": 0.9183759173041285,
+  "validation_metrics": {
+    "accuracy": 0.9322033898305084,
+    "precision_macro": 0.9316602841373899,
+    "recall_macro": 0.9325702992464592,
+    "f1_macro": 0.9315264182707497,
+    "f1_weighted": 0.931715753135257
+  },
+  "calibration_method": "sigmoid",
+  "calibration_cv": 5,
+  "probability_stats": {
+    "max": 0.9865096180217059,
+    "min": 3.836358496534472e-05,
+    "mean": 0.14285714285714285
+  },
+  "confidence_distribution": {
+    "p25": 0.8516384261176484,
+    "p50": 0.9295863086271862,
+    "p75": 0.9582166659525309,
+    "p90": 0.9705819523516165
+  },
+  "model_file": "D:\\vietnamese_news\\3. Processing\\3. Base Model HPO\\output\\base_model_calibrated.pkl",
+  "model_size_mb": 0.08542346954345703
+}

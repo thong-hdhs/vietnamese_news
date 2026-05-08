@@ -1,0 +1,42 @@
+{
+  "input_files": {
+    "train": "D:\\vietnamese_news\\3. Processing\\1. Data Split\\0. data\\train_data.json",
+    "val": "D:\\vietnamese_news\\3. Processing\\1. Data Split\\0. data\\val_data.json",
+    "unlabeled": "D:\\vietnamese_news\\3. Processing\\1. Data Split\\0. data\\unlabeled_data.json"
+  },
+  "config": {
+    "tfidf_max_features": 3000,
+    "tfidf_ngram_range": [
+      1,
+      2
+    ],
+    "svd_n_components": 300,
+    "site_onehot_dim": 4
+  },
+  "transform_policy": {
+    "fit_on_train_only": true,
+    "transform_on_val_unlabeled_only": true
+  },
+  "output_shapes": {
+    "X_train": [
+      2674,
+      304
+    ],
+    "X_val": [
+      472,
+      304
+    ],
+    "X_unlabeled": [
+      9855,
+      304
+    ],
+    "y_train": [
+      2674
+    ],
+    "y_val": [
+      472
+    ]
+  },
+  "tfidf_vocab_size": 3000,
+  "svd_explained_variance_sum": 0.5680895992520588
+}

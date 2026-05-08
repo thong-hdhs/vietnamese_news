@@ -1,0 +1,52 @@
+{
+  "schema_version": "site_onehot_v2",
+  "generated_at": "2026-04-23T10:20:34.955750",
+  "num_sites": 4,
+  "sites": [
+    "thanhnien",
+    "vietnamnet",
+    "vnexpress",
+    "vtcnews"
+  ],
+  "site_to_index": {
+    "thanhnien": 0,
+    "vietnamnet": 1,
+    "vnexpress": 2,
+    "vtcnews": 3
+  },
+  "index_to_site": {
+    "0": "thanhnien",
+    "1": "vietnamnet",
+    "2": "vnexpress",
+    "3": "vtcnews"
+  },
+  "site_to_onehot": {
+    "thanhnien": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "vietnamnet": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "vnexpress": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "vtcnews": [
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  "excluded_sites": [
+    "tuoitre"
+  ]
+}

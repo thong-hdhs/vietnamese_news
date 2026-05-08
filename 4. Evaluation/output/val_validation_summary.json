@@ -1,0 +1,67 @@
+{
+  "total_samples": 472,
+  "correct_predictions": 441,
+  "accuracy": 0.934322033898305,
+  "accuracy_percentage": 93.4322033898305,
+  "precision_macro": 0.9339064730331662,
+  "recall_macro": 0.9346460335094345,
+  "f1_macro": 0.9337757332151593,
+  "f1_weighted": 0.93398324678894,
+  "per_class_metrics": {
+    "Cong nghe": {
+      "precision": 0.921875,
+      "recall": 0.921875,
+      "f1-score": 0.921875,
+      "support": 64.0
+    },
+    "Giao duc": {
+      "precision": 0.9552238805970149,
+      "recall": 0.9411764705882353,
+      "f1-score": 0.9481481481481482,
+      "support": 68.0
+    },
+    "Giai tri": {
+      "precision": 0.9850746268656716,
+      "recall": 0.9295774647887324,
+      "f1-score": 0.9565217391304348,
+      "support": 71.0
+    },
+    "Kinh te": {
+      "precision": 0.9014084507042254,
+      "recall": 0.9014084507042254,
+      "f1-score": 0.9014084507042254,
+      "support": 71.0
+    },
+    "Suc khoe": {
+      "precision": 0.9130434782608695,
+      "recall": 1.0,
+      "f1-score": 0.9545454545454546,
+      "support": 63.0
+    },
+    "The thao": {
+      "precision": 0.971830985915493,
+      "recall": 1.0,
+      "f1-score": 0.9857142857142858,
+      "support": 69.0
+    },
+    "Thoi su": {
+      "precision": 0.8888888888888888,
+      "recall": 0.8484848484848485,
+      "f1-score": 0.8682170542635659,
+      "support": 66.0
+    },
+    "accuracy": 0.934322033898305,
+    "macro avg": {
+      "precision": 0.9339064730331662,
+      "recall": 0.9346460335094345,
+      "f1-score": 0.9337757332151593,
+      "support": 472.0
+    },
+    "weighted avg": {
+      "precision": 0.9346192080790894,
+      "recall": 0.934322033898305,
+      "f1-score": 0.93398324678894,
+      "support": 472.0
+    }
+  }
+}

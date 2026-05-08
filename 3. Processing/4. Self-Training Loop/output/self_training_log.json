@@ -1,0 +1,161 @@
+[
+  {
+    "iteration": 0,
+    "pseudo_labels_added": 0,
+    "pool_size": 9855,
+    "train_size": 2674,
+    "val_f1_macro": 0.9315264182707497,
+    "val_f1_drop": 0.0,
+    "stopped_reason": "initial"
+  },
+  {
+    "iteration": 1,
+    "pseudo_labels_added": 140,
+    "pool_size": 9715,
+    "train_size": 2814,
+    "val_f1_macro": 0.9315264182707497,
+    "val_f1_drop": 0.0,
+    "retrain_time_seconds": 17.055288791656494,
+    "stopped_reason": "max_iterations_reached"
+  },
+  {
+    "iteration": 2,
+    "pseudo_labels_added": 140,
+    "pool_size": 9575,
+    "train_size": 2954,
+    "val_f1_macro": 0.9315264182707497,
+    "val_f1_drop": 0.0,
+    "retrain_time_seconds": 18.533740520477295,
+    "stopped_reason": "max_iterations_reached"
+  },
+  {
+    "iteration": 3,
+    "pseudo_labels_added": 140,
+    "pool_size": 9435,
+    "train_size": 3094,
+    "val_f1_macro": 0.9315264182707497,
+    "val_f1_drop": 0.0,
+    "retrain_time_seconds": 33.15494513511658,
+    "stopped_reason": "max_iterations_reached"
+  },
+  {
+    "iteration": 4,
+    "pseudo_labels_added": 140,
+    "pool_size": 9295,
+    "train_size": 3234,
+    "val_f1_macro": 0.9315264182707497,
+    "val_f1_drop": 0.0,
+    "retrain_time_seconds": 40.67925953865051,
+    "stopped_reason": "max_iterations_reached"
+  },
+  {
+    "iteration": 5,
+    "pseudo_labels_added": 140,
+    "pool_size": 9155,
+    "train_size": 3374,
+    "val_f1_macro": 0.9294015725080556,
+    "val_f1_drop": 0.0021248457626941164,
+    "retrain_time_seconds": 22.047866582870483,
+    "stopped_reason": "max_iterations_reached"
+  },
+  {
+    "iteration": 6,
+    "pseudo_labels_added": 140,
+    "pool_size": 9015,
+    "train_size": 3514,
+    "val_f1_macro": 0.9314822235463035,
+    "val_f1_drop": 4.419472444616712e-05,
+    "retrain_time_seconds": 20.046070337295532,
+    "stopped_reason": "max_iterations_reached"
+  },
+  {
+    "iteration": 7,
+    "pseudo_labels_added": 140,
+    "pool_size": 8875,
+    "train_size": 3654,
+    "val_f1_macro": 0.9315264182707497,
+    "val_f1_drop": 0.0,
+    "retrain_time_seconds": 39.89942145347595,
+    "stopped_reason": "max_iterations_reached"
+  },
+  {
+    "iteration": 8,
+    "pseudo_labels_added": 140,
+    "pool_size": 8735,
+    "train_size": 3794,
+    "val_f1_macro": 0.9336161874401733,
+    "val_f1_drop": -0.0020897691694236054,
+    "retrain_time_seconds": 35.51494812965393,
+    "stopped_reason": "max_iterations_reached"
+  },
+  {
+    "iteration": 9,
+    "pseudo_labels_added": 140,
+    "pool_size": 8595,
+    "train_size": 3934,
+    "val_f1_macro": 0.9315956320027541,
+    "val_f1_drop": 0.0020205554374191914,
+    "retrain_time_seconds": 65.94015884399414,
+    "stopped_reason": "max_iterations_reached"
+  },
+  {
+    "iteration": 10,
+    "pseudo_labels_added": 140,
+    "pool_size": 8455,
+    "train_size": 4074,
+    "val_f1_macro": 0.9336161874401733,
+    "val_f1_drop": 0.0,
+    "retrain_time_seconds": 45.07464909553528,
+    "stopped_reason": "max_iterations_reached"
+  },
+  {
+    "iteration": 11,
+    "pseudo_labels_added": 140,
+    "pool_size": 8315,
+    "train_size": 4214,
+    "val_f1_macro": 0.9315956320027541,
+    "val_f1_drop": 0.0020205554374191914,
+    "retrain_time_seconds": 38.96340012550354,
+    "stopped_reason": "max_iterations_reached"
+  },
+  {
+    "iteration": 12,
+    "pseudo_labels_added": 140,
+    "pool_size": 8175,
+    "train_size": 4354,
+    "val_f1_macro": 0.9336603821646193,
+    "val_f1_drop": -4.41947244460561e-05,
+    "retrain_time_seconds": 23.47673988342285,
+    "stopped_reason": "max_iterations_reached"
+  },
+  {
+    "iteration": 13,
+    "pseudo_labels_added": 140,
+    "pool_size": 8035,
+    "train_size": 4494,
+    "val_f1_macro": 0.9337757332151593,
+    "val_f1_drop": -0.00011535105053994688,
+    "retrain_time_seconds": 39.76204323768616,
+    "stopped_reason": "max_iterations_reached"
+  },
+  {
+    "iteration": 14,
+    "pseudo_labels_added": 140,
+    "pool_size": 7895,
+    "train_size": 4634,
+    "val_f1_macro": 0.931782614211394,
+    "val_f1_drop": 0.001993119003765309,
+    "retrain_time_seconds": 38.4649121761322,
+    "stopped_reason": "max_iterations_reached"
+  },
+  {
+    "iteration": 15,
+    "pseudo_labels_added": 140,
+    "pool_size": 7755,
+    "train_size": 4774,
+    "val_f1_macro": 0.931782614211394,
+    "val_f1_drop": 0.001993119003765309,
+    "retrain_time_seconds": 33.961265563964844,
+    "stopped_reason": "max_iterations_reached"
+  }
+]
